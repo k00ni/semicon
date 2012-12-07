@@ -16,4 +16,6 @@
 Semicon is a collection of icons (semicons) for the semantic web. It provides semicons for various areas, e.g. file or structure related topics.
 
 ## License
-Semicon is dual-licensed: GPL 2 and Create Commons "CC BY-SA" 3.0, which includes usage for commercial projects too.
+Semicon is dual-licensed: [GPL 2](http://www.gnu.org/licenses/gpl-2.0.html) and 
+[Create Commons "CC BY-SA" 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US), 
+which includes usage for commercial projects too.
