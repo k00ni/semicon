@@ -27,29 +27,26 @@ for i in `find $rootFolder -depth -name '*.svg'`; do
 done
 
 
-
-
 # Set folder paths
 allFolder="$PWD/../png/all"
 
 rootFolder="$PWD/../png/file"
 
-for i in `find $rootFolder -depth -name '*.svg'`; do 
+for i in `find $rootFolder -depth -name '*.png'`; do 
     filename=$(basename "$i") extension="${filename##*.}" filename="${filename%.*}"
     cp "$rootFolder/$filename.$extension" "$allFolder/$filename.$extension"
 done
 
 rootFolder="$PWD/../png/namespace"
 
-for i in `find $rootFolder -depth -name '*.svg'`; do 
+for i in `find $rootFolder -depth -name '*.png'`; do 
     filename=$(basename "$i") extension="${filename##*.}" filename="${filename%.*}"
-    echo "$rootFolder/$filename.$extension" "$allFolder/$filename.$extension"
     cp "$rootFolder/$filename.$extension" "$allFolder/$filename.$extension"
 done
 
 rootFolder="$PWD/../png/structure"
 
-for i in `find $rootFolder -depth -name '*.svg'`; do 
+for i in `find $rootFolder -depth -name '*.png'`; do 
     filename=$(basename "$i") extension="${filename##*.}" filename="${filename%.*}"
     cp "$rootFolder/$filename.$extension" "$allFolder/$filename.$extension"
 done
