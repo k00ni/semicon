@@ -33,6 +33,14 @@ for i in `find $rootFolder -depth -name '*.svg'`; do
     cp "$rootFolder/$filename.$extension" "$allFolder/$filename.$extension"
 done
 
+rootFolder="$PWD/../svg/vocabulary_related/foaf"
+
+for i in `find $rootFolder -depth -name '*.svg'`; do 
+    filename=$(basename "$i") extension="${filename##*.}" filename="${filename%.*}"
+    cp "$rootFolder/$filename.$extension" "$allFolder/$filename.$extension"
+done
+
+
 
 # Set folder paths
 allFolder="$PWD/../png/all"
@@ -59,6 +67,13 @@ for i in `find $rootFolder -depth -name '*.png'`; do
 done
 
 rootFolder="$PWD/../png/triplestore"
+
+for i in `find $rootFolder -depth -name '*.png'`; do 
+    filename=$(basename "$i") extension="${filename##*.}" filename="${filename%.*}"
+    cp "$rootFolder/$filename.$extension" "$allFolder/$filename.$extension"
+done
+
+rootFolder="$PWD/../png/vocabulary_related/foaf"
 
 for i in `find $rootFolder -depth -name '*.png'`; do 
     filename=$(basename "$i") extension="${filename##*.}" filename="${filename%.*}"
