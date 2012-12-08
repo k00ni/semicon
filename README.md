@@ -15,7 +15,6 @@
 ![](https://raw.github.com/wiki/k00ni/semicon/images/triplestore2.png)
 ![](https://raw.github.com/wiki/k00ni/semicon/images/triplestore3.png)
 ![](https://raw.github.com/wiki/k00ni/semicon/images/person.png)
-![](https://raw.github.com/wiki/k00ni/semicon/images/person1.png)
 ![](https://raw.github.com/wiki/k00ni/semicon/images/person2.png)
 ![](https://raw.github.com/wiki/k00ni/semicon/images/person3.png)
 ![](https://raw.github.com/wiki/k00ni/semicon/images/person4.png)
