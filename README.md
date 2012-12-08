@@ -21,7 +21,8 @@
 ![](https://raw.github.com/wiki/k00ni/semicon/images/foaf.png)
 ![](https://raw.github.com/wiki/k00ni/semicon/images/sioc.png)
 
-Semicon is a collection of icons (semicons) for the semantic web. It provides semicons for various areas, e.g. file or structure related topics.
+Semicon is a collection of icons (called semicons) for the [Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web).
+There are semicons for a various topics, e.g. file or structure related ones.
 
 ## License
 Semicon is dual-licensed: [GPL 2](http://www.gnu.org/licenses/gpl-2.0.html) and 
