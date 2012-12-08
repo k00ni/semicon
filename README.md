@@ -24,6 +24,11 @@
 Semicon is a collection of icons (called semicons) for the [Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web).
 There are semicons for a various topics, e.g. file or structure related ones.
 
+## Getting started
+
+Simply download it the complete icon set [here](https://github.com/k00ni/semicon/downloads). 
+Extract downloaded archive into your images folder and enjoy!
+
 ## License
 Semicon is dual-licensed: [GPL 2](http://www.gnu.org/licenses/gpl-2.0.html) and 
 [Create Commons "CC BY-SA" 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US), 
