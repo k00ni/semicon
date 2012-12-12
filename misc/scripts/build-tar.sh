@@ -13,10 +13,12 @@ cp $pngFolder/* semicon
 # Tar archive
 rm -f semicon.tar.gz
 tar czf semicon.tar.gz semicon
+mv semicon.tar.gz $PWD/../downloads/
 
 # Zip archive
 rm -f semicon.zip
 zip -r semicon semicon
+mv semicon.zip $PWD/../downloads/
 
 # Clean
 rm -rf semicon
