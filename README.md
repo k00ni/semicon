@@ -27,8 +27,13 @@
 ![](https://raw.github.com/k00ni/semicon/master/png/all/owl.png)
 ![](https://raw.github.com/k00ni/semicon/master/png/all/cube.png)
 ![](https://raw.github.com/k00ni/semicon/master/png/all/dc.png)
+![](https://raw.github.com/k00ni/semicon/master/png/all/doap.png)
 ![](https://raw.github.com/k00ni/semicon/master/png/all/foaf.png)
+![](https://raw.github.com/k00ni/semicon/master/png/all/geo.png)
 ![](https://raw.github.com/k00ni/semicon/master/png/all/sioc.png)
+![](https://raw.github.com/k00ni/semicon/master/png/all/skos.png)
+![](https://raw.github.com/k00ni/semicon/master/png/all/void.png)
+![](https://raw.github.com/k00ni/semicon/master/png/all/void.png)
 
 Semicon is a collection of icons (called semicons) for the [Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web).
 There are semicons for a various topics, e.g. file or structure related ones.
