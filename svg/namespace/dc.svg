@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,17 +75,17 @@
            transform="matrix(0.99063909,0,0,0.99063908,-4.7003607,-0.15063258)" />
         <text
            xml:space="preserve"
-           style="font-size:29.57661819px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-           x="14.234824"
-           y="28.821363"
+           style="font-size:25.34211922px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+           x="15.038512"
+           y="27.801445"
            id="text4630-0"
            sodipodi:linespacing="125%"
            transform="scale(0.94793594,1.0549236)"><tspan
              sodipodi:role="line"
              id="tspan4632-1"
-             x="14.234824"
-             y="28.821363"
-             style="font-size:16.66216469px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">DC</tspan></text>
+             x="15.038512"
+             y="27.801445"
+             style="font-size:14.27663422px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">DC</tspan></text>
       </g>
     </g>
   </g>
