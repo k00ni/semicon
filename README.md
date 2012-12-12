@@ -40,7 +40,7 @@ There are semicons for a various topics, e.g. file or structure related ones.
 
 ## Getting started
 
-Simply download it the complete icon set [here](https://github.com/k00ni/semicon/downloads). 
+Simply download it the complete icon set [here](https://github.com/k00ni/semicon/tree/master/downloads). 
 Extract downloaded archive into your images folder and enjoy!
 
 ## License
