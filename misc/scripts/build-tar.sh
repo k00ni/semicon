@@ -8,6 +8,7 @@ archiveFolder="$PWD"
 
 rm -rf semicon
 mkdir semicon
+cp ../LICENSE.md semicon
 cp $pngFolder/* semicon
 
 # Tar archive
