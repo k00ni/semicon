@@ -2,8 +2,9 @@ default:
 	@echo "Semicon - CLI"
 	@echo " make install-build-svg2png-tool"
 	@echo " make build-pngs"
-	@echo " make create-all-folder"
 	@echo " make build-tar"
+	@echo " make create-all-folder"
+	@echo " make update-readme"
 	
 install-build-svg2png-tool:
 	sudo apt-get install librsvg2-bin
@@ -17,4 +18,7 @@ build-tar:
 create-all-folder:
 	sh scripts/create-all-folder.sh
 	
-prepare: build-pngs create-all-folder build-tar
+update-readme:
+	sh scripts/update-README.sh
+	
+prepare: build-pngs create-all-folder update-readme build-tar
