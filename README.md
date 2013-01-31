@@ -85,6 +85,6 @@ or [tar gz](https://github.com/k00ni/semicon/raw/master/downloads/semicon.tar.gz
 Extract downloaded archive into your images folder and enjoy!
 
 ## License
-Semicon is dual-licensed: [GPL 2](http://www.gnu.org/licenses/gpl-2.0.html) and 
+Semicon is licensed under the terms of 
 [Create Commons "CC BY-SA" 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US), 
 which includes usage for commercial projects too.
