@@ -1,10 +1,10 @@
 # License
 
-Semicon is released under the terms of Create Commons "CC BY-SA" 3.0.
+Semicon is released under the terms of Creative Commons "CC BY-SA" 3.0.
 
-## Create Commons "CC BY-SA" 3.0
+## Creative Commons "CC BY-SA" 3.0
 
-The following text based on the [this page](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US) of Create 
+The following text based on the [this page](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US) of Creative 
 Commons.
 
 ### You are free
