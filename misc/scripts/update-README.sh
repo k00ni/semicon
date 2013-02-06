@@ -14,7 +14,7 @@ filePath="![](https://raw.github.com/k00ni/semicon/master/png/all/"
 # first convert svg's to png
 for i in `find $pngFolder -depth -name '*.png'`; do 
     filename=$(basename "$i") extension="${filename##*.}" filename="${filename%.*}"
-    echo "$filePath$filename.png)" >> ../README.md;
+    echo "$filePath$filename.png) . " >> ../README.md;
 done
 
 echo "\n

@@ -1,20 +1,28 @@
 # Semicon 
 
-![](https://raw.github.com/k00ni/semicon/master/png/all/graph.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/graph_dots.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/graph_dots2.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/part.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/graph_dots3.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/subgraph_dots3.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/subgraph_dots.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/subgraph_dots2.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/importTriple.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/exportTriple.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/sparql3.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/sparql.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/sparql2.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/sparql4.png)
-![](https://raw.github.com/k00ni/semicon/master/png/all/sparql5.png)
+![](https://raw.github.com/k00ni/semicon/master/png/all/graph.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/graph_dots.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/graph_dots2.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/part.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/graph_dots3.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/subgraph_dots3.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/subgraph_dots.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/subgraph_dots2.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/importTriple.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/exportTriple.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/sparql3.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/sparql.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/sparql2.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/sparql4.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/sparql5.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/circle.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/bipartite_graph.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/bipartite_graph2.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/2graphs.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/addNode.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/traversing.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/crooked_construction.png) . 
+![](https://raw.github.com/k00ni/semicon/master/png/all/sparql6.png) . 
 
 
 Semicon is a collection of icons (called semicons) for the [Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web).
