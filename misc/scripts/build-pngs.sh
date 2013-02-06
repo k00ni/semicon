@@ -27,8 +27,8 @@ for i in `find $svgFolder -depth -name '*.png'`; do
 done
 
 # Set folder paths
-svgFolder="$PWD/../svg/namespace"
-pngFolder="$PWD/../png/namespace"
+svgFolder="$PWD/../svg/structure"
+pngFolder="$PWD/../png/structure"
 
 # first convert svg's to png
 for i in `find $svgFolder -depth -name '*.svg'`; do rsvg-convert $i -o `echo $i | sed -e 's/svg$/png/'`; done
@@ -39,8 +39,8 @@ for i in `find $svgFolder -depth -name '*.png'`; do
 done
 
 # Set folder paths
-svgFolder="$PWD/../svg/structure"
-pngFolder="$PWD/../png/structure"
+svgFolder="$PWD/../svg/terms"
+pngFolder="$PWD/../png/terms"
 
 # first convert svg's to png
 for i in `find $svgFolder -depth -name '*.svg'`; do rsvg-convert $i -o `echo $i | sed -e 's/svg$/png/'`; done

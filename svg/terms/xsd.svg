@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg3765"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="xsd.svg"
+   inkscape:export-filename="/home/k00ni/Documents/semicon/owl.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3767" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="28"
+     inkscape:cx="4.1160716"
+     inkscape:cy="9.3451202"
+     inkscape:current-layer="layer1-9-3"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3770">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,-32)">
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-4"
+       transform="translate(0.20202972,-1.9622142e-8)">
+      <g
+         transform="translate(-0.37059768,-0.09089584)"
+         id="layer1-9"
+         inkscape:label="Layer 1">
+        <g
+           inkscape:label="Layer 1"
+           id="layer1-9-3"
+           transform="translate(-44.951788,-4.1416259)">
+          <text
+             xml:space="preserve"
+             style="font-size:26.22184563000000068px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="50.564117"
+             y="51.785973"
+             id="text2993-4-6"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="50.564117"
+               y="51.785973"
+               style="font-size:8.78690910000000081px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;fill:#2d2d2d;fill-opacity:1"
+               id="tspan2987-0-1">D</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:35.95099257999999764px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="45.558666"
+             y="45.097473"
+             id="text2993-4-5"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="45.558666"
+               y="45.097473"
+               style="font-size:12.04713439999999913px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;fill:#2d2d2d;fill-opacity:1"
+               id="tspan2987-0-12">XS</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
