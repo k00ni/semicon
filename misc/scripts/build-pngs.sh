@@ -72,20 +72,16 @@ svgToPng() {
 }
 
 # Convert the various icon sets
-
-sizeDir=
-if [ ! ${size} -eq 16 ]; then
-    sizeDir="/$size"
-fi
+sizeDir="$size"
 
 # Structure Icons
-svgToPng "$PWD/../svg/structure" "$PWD/../png/structure$sizeDir"
+svgToPng "$PWD/../svg/structure" "$PWD/../png/structure/$sizeDir"
 
 # Terms Icons
-svgToPng "$PWD/../svg/terms" "$PWD/../png/terms$sizeDir"
+svgToPng "$PWD/../svg/terms" "$PWD/../png/terms/$sizeDir"
 
 # Triplestore Icons
-svgToPng "$PWD/../svg/triplestore" "$PWD/../png/triplestore$sizeDir"
+svgToPng "$PWD/../svg/triplestore" "$PWD/../png/triplestore/$sizeDir"
 
 echo "Icon Conversion completed"
 
