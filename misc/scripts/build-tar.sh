@@ -22,4 +22,4 @@ zip -r semicon semicon
 mv semicon.zip $PWD/../downloads/
 
 # Clean
-#rm -rf semicon
+rm -rf semicon
