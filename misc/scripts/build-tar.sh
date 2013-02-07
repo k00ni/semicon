@@ -3,13 +3,16 @@
 #
 
 # Set folder paths
-pngFolder="$PWD/../png/all"
+pngFolder="$PWD/../png/all/*"
+svgFolder="$PWD/../svg"
 archiveFolder="$PWD"
 
 rm -rf semicon
 mkdir semicon
+mkdir semicon/png
 cp ../LICENSE.md semicon
-cp -R $pngFolder/ semicon
+cp -R $pngFolder semicon/png/
+cp -R $svgFolder semicon
 
 # Tar archive
 rm -f semicon.tar.gz
