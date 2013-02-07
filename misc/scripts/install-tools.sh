@@ -26,8 +26,13 @@ if [ $? -eq 0 ]; then
   exit 0
 fi
 
-# TODO: Try yum
-# Need to know what the package name would be
+# Try yum
+which yum >> /dev/null
+if [ $? -eq 0 ]; then
+  # We have yum available
+  yum install librsvg2
+  exit 0
+fi
 
 # Try homebrew
 which brew >> /dev/null
