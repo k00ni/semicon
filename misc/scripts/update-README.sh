@@ -9,8 +9,8 @@ echo "# Semicon \n" > ../README.md
 # Set folder paths
 pngFolder="$PWD/../png/all"
 
-whitespacePath="![](raw/master/misc/images/whitespace.png)"
-filePath="![](raw/master/png/all/32/"
+whitespacePath="![](../../raw/master/misc/images/whitespace.png)"
+filePath="![](../../raw/master/png/all/32/"
 
 # Find and copy the PNGs
 for i in `find $pngFolder -depth -name '*.png'`; do 
@@ -24,8 +24,8 @@ There are semicons for a various topics, e.g. file or structure related ones.
 
 ## Getting started
 
-Simply download it the complete icon set as [zip](raw/master/downloads/semicon.zip) 
-or [tar gz](raw/master/downloads/semicon.tar.gz). 
+Simply download it the complete icon set as [zip](../../raw/master/downloads/semicon.zip) 
+or [tar gz](../../raw/master/downloads/semicon.tar.gz). 
 Extract downloaded archive into your images folder and enjoy!
 
 ## License
