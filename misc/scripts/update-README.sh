@@ -28,20 +28,22 @@ putImageToReadme() {
 rm ../README.md
 echo "# Semicon \n" > ../README.md
 echo "\nSemicon is a collection of icons (called semicons) for the 
-[Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web). There are semicons for 
-a various topics, e.g. file or structure related ones." >> ../README.md
+[Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web) to cover a wide range
+of topics." >> ../README.md
 
 #
-# 
+# Add icons to README.md grouped by the topic
 #
-echo "\n\n## Structure \n" >> ../README.md
-putImageToReadme "$PWD/../png/structure/32" "![](../../raw/master/png/structure/32/"
+size=32
 
-echo "\n\n## Terms \n" >> ../README.md
-putImageToReadme "$PWD/../png/terms/32" "![](../../raw/master/png/terms/32/"
+echo "\n\n### Structure \n" >> ../README.md
+putImageToReadme "$PWD/../png/structure/$size" "![](../../raw/master/png/structure/$size/"
 
-echo "\n\n## Triple Store \n" >> ../README.md
-putImageToReadme "$PWD/../png/triplestore/32" "![](../../raw/master/png/triplestore/32/"
+echo "\n\n### Terms \n" >> ../README.md
+putImageToReadme "$PWD/../png/terms/$size" "![](../../raw/master/png/terms/$size/"
+
+echo "\n\n### Triple Store \n" >> ../README.md
+putImageToReadme "$PWD/../png/triplestore/$size" "![](../../raw/master/png/triplestore/$size/"
 
 #
 # Add general description about the project itself.

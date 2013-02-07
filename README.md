@@ -2,11 +2,11 @@
 
 
 Semicon is a collection of icons (called semicons) for the 
-[Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web). There are semicons for 
-a various topics, e.g. file or structure related ones.
+[Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web) to cover a wide range
+of topics.
 
 
-## Structure 
+### Structure 
 
 ![](../../raw/master/png/structure/32/2graphs.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/add_node.png) ![](../../raw/master/misc/images/whitespace.png) 
@@ -33,7 +33,7 @@ a various topics, e.g. file or structure related ones.
 ![](../../raw/master/png/structure/32/triple.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
-## Terms 
+### Terms 
 
 ![](../../raw/master/png/terms/32/datacube.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/dublincore.png) ![](../../raw/master/misc/images/whitespace.png) 
@@ -47,7 +47,7 @@ a various topics, e.g. file or structure related ones.
 ![](../../raw/master/png/terms/32/xsd.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
-## Triple Store 
+### Triple Store 
 
 ![](../../raw/master/png/triplestore/32/export_triple.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/triplestore/32/import_triple.png) ![](../../raw/master/misc/images/whitespace.png) 
