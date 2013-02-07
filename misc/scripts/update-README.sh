@@ -7,12 +7,12 @@ rm ../README.md
 echo "# Semicon \n" > ../README.md
 
 # Set folder paths
-pngFolder="$PWD/../png/all"
+pngFolder="$PWD/../png/all/32"
 
-whitespacePath="![](https://raw.github.com/k00ni/semicon/master/misc/images/whitespace.png)"
-filePath="![](https://raw.github.com/k00ni/semicon/master/png/all/"
+whitespacePath="![](../../raw/master/misc/images/whitespace.png)"
+filePath="![](../../raw/master/png/all/32/"
 
-# first convert svg's to png
+# Find and link the PNGs
 for i in `find $pngFolder -depth -name '*.png'`; do 
     filename=$(basename "$i") extension="${filename##*.}" filename="${filename%.*}"
     echo "$filePath$filename.png) $whitespacePath " >> ../README.md;
@@ -24,8 +24,8 @@ There are semicons for a various topics, e.g. file or structure related ones.
 
 ## Getting started
 
-Simply download it the complete icon set as [zip](https://github.com/k00ni/semicon/raw/master/downloads/semicon.zip) 
-or [tar gz](https://github.com/k00ni/semicon/raw/master/downloads/semicon.tar.gz). 
+Simply download it the complete icon set as [zip](../../raw/master/downloads/semicon.zip) 
+or [tar gz](../../raw/master/downloads/semicon.tar.gz). 
 Extract downloaded archive into your images folder and enjoy!
 
 ## License
