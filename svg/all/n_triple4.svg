@@ -14,7 +14,7 @@
    id="svg3765"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="n3.svg"
+   sodipodi:docname="n_triple.svg"
    inkscape:export-filename="/home/k00ni/Documents/semicon/owl.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="28"
-     inkscape:cx="4.1160716"
+     inkscape:cx="10.986774"
      inkscape:cy="9.3451202"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
@@ -72,16 +72,44 @@
            transform="translate(-44.951788,-4.1416259)">
           <text
              xml:space="preserve"
-             style="font-size:38.98538589000000343px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="44.564156"
-             y="45.96125"
+             style="font-size:30.38683701px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="47.480007"
+             y="41.953476"
              id="text2993-4-5"
-             sodipodi:linespacing="125%"><tspan
+             sodipodi:linespacing="125%"
+             transform="scale(0.94587567,1.0572214)"><tspan
                sodipodi:role="line"
-               x="44.564156"
-               y="45.96125"
-               style="font-size:13.06395625999999943px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;fill:#2d2d2d;fill-opacity:1"
-               id="tspan2987-0-12">N3</tspan></text>
+               x="47.480007"
+               y="41.953476"
+               style="font-size:10.18259335px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+               id="tspan2987-0-12">N</tspan></text>
+          <rect
+             style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+             id="rect3290-7-1"
+             width="1.2500001"
+             height="14.714286"
+             x="59.191784"
+             y="36.839664"
+             rx="9.5195742"
+             ry="0.055109687" />
+          <rect
+             style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+             id="rect3290-7-1-1"
+             width="1.2500001"
+             height="14.714286"
+             x="56.138214"
+             y="36.839664"
+             rx="9.5195742"
+             ry="0.055109687" />
+          <rect
+             style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+             id="rect3290-7-1-1-3"
+             width="1.2500001"
+             height="14.714286"
+             x="53.13821"
+             y="36.803947"
+             rx="9.5195742"
+             ry="0.055109687" />
         </g>
       </g>
     </g>

@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="28"
      inkscape:cx="4.1160716"
-     inkscape:cy="7.9391563"
+     inkscape:cy="7.9457741"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -72,15 +72,16 @@
            transform="translate(-44.951788,-4.1416259)">
           <text
              xml:space="preserve"
-             style="font-size:35.95099257999999764px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="44.580162"
-             y="45.557594"
+             style="font-size:20.42114449px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="1.623289"
+             y="71.536766"
              id="text2993-4"
-             sodipodi:linespacing="125%"><tspan
+             sodipodi:linespacing="125%"
+             transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
                sodipodi:role="line"
-               x="44.580162"
-               y="45.557594"
-               style="font-size:12.04713439999999913px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;fill:#2d2d2d;fill-opacity:1"
+               x="1.623289"
+               y="71.536766"
+               style="font-size:6.84310055px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
                id="tspan2987-0">DC</tspan></text>
         </g>
       </g>

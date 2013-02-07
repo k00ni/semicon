@@ -35,16 +35,18 @@ of topics.
 
 ### Terms 
 
-![](../../raw/master/png/terms/32/datacube.png) ![](../../raw/master/misc/images/whitespace.png) 
-![](../../raw/master/png/terms/32/dublincore.png) ![](../../raw/master/misc/images/whitespace.png) 
-![](../../raw/master/png/terms/32/n3.png) ![](../../raw/master/misc/images/whitespace.png) 
-![](../../raw/master/png/terms/32/n_triple.png) ![](../../raw/master/misc/images/whitespace.png) 
-![](../../raw/master/png/terms/32/owl.png) ![](../../raw/master/misc/images/whitespace.png) 
-![](../../raw/master/png/terms/32/rdf.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/rdfs.png) ![](../../raw/master/misc/images/whitespace.png) 
-![](../../raw/master/png/terms/32/sioc.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/rdf.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/owl.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/dublincore.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/skos.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/sioc.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/xsd.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/datacube.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/n_triple.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/n_triple2.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/n_triple3.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/n_triple4.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
 ### Triple Store 
