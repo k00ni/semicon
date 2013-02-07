@@ -11,6 +11,9 @@ install-build-svg2png-tool:
 	
 build-pngs:
 	sh scripts/build-pngs.sh
+	sh scripts/build-pngs.sh 32
+	sh scripts/build-pngs.sh 64
+	sh scripts/build-pngs.sh 128
 	
 build-tar:
 	sh scripts/build-tar.sh
