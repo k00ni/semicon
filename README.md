@@ -63,6 +63,9 @@ of topics.
 
 ## Getting started
 
+You can choose between the SVG or PNG version of the icons. SVG icons are scale free, which
+means you can choose the size you want, and it will works. PNG icons are available
+in size 16x16, 32x32, 64x64 and 128x128.
 Simply download it the complete icon set as [zip](../../raw/master/downloads/semicon.zip) 
 or [tar gz](../../raw/master/downloads/semicon.tar.gz). 
 Extract downloaded archive into your images folder and enjoy!
