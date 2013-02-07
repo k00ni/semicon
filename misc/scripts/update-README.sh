@@ -7,12 +7,12 @@ rm ../README.md
 echo "# Semicon \n" > ../README.md
 
 # Set folder paths
-pngFolder="$PWD/../png/all"
+pngFolder="$PWD/../png/all/32"
 
 whitespacePath="![](../../raw/master/misc/images/whitespace.png)"
 filePath="![](../../raw/master/png/all/32/"
 
-# Find and copy the PNGs
+# Find and link the PNGs
 for i in `find $pngFolder -depth -name '*.png'`; do 
     filename=$(basename "$i") extension="${filename##*.}" filename="${filename%.*}"
     echo "$filePath$filename.png) $whitespacePath " >> ../README.md;
