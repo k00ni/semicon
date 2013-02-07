@@ -1,5 +1,8 @@
 #
-# BUILD NAMESPACE ICONS 
+# Build PNGs
+# 
+# Parameter list:
+#   $1 - Size of PNGs 
 #
 
 # What size PNGs are we generating?
