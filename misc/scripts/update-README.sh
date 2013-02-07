@@ -10,7 +10,7 @@ echo "# Semicon \n" > ../README.md
 pngFolder="$PWD/../png/all"
 
 whitespacePath="![](raw/master/misc/images/whitespace.png)"
-filePath="![](raw//master/png/all/32/"
+filePath="![](raw/master/png/all/32/"
 
 # Find and copy the PNGs
 for i in `find $pngFolder -depth -name '*.png'`; do 
