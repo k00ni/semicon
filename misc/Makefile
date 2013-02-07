@@ -7,7 +7,7 @@ default:
 	@echo " make update-readme"
 	
 install-build-svg2png-tool:
-	sudo apt-get install librsvg2-bin
+	sh scripts/install-tools.sh
 	
 build-pngs:
 	sh scripts/build-pngs.sh
