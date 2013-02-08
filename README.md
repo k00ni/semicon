@@ -36,6 +36,8 @@ of topics.
 ![](../../raw/master/png/structure/32/subgraph_dots3.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/traversing.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/triple.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/structure/32/class.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/structure/32/instance.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
 ### Terms 
@@ -48,12 +50,11 @@ of topics.
 ![](../../raw/master/png/terms/32/sioc.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/xsd.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/datacube.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/ttl.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/n_triple.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/n_triple2.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/n_triple3.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/n_triple4.png) ![](../../raw/master/misc/images/whitespace.png) 
-![](../../raw/master/png/terms/32/turtle.png) ![](../../raw/master/misc/images/whitespace.png) 
-![](../../raw/master/png/terms/32/ttl.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
 ### Triple Store 
