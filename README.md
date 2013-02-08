@@ -47,6 +47,8 @@ of topics.
 ![](../../raw/master/png/terms/32/n_triple2.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/n_triple3.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/n_triple4.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/turtle.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/ttl.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
 ### Triple Store 

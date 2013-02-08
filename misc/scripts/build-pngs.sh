@@ -77,6 +77,9 @@ svgToPng() {
 # Convert the various icon sets
 sizeDir="$size"
 
+# File Icons
+svgToPng "$PWD/../svg/file" "$PWD/../png/file/$sizeDir"
+
 # Structure Icons
 svgToPng "$PWD/../svg/structure" "$PWD/../png/structure/$sizeDir"
 
