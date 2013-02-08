@@ -24,11 +24,13 @@ of topics.
 ![](../../raw/master/png/structure/32/center2.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/center3.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/circle.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/structure/32/class.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/crooked_construction.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/graph.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/graph_dots.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/graph_dots2.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/graph_dots3.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/structure/32/instance.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/part.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/star.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/subgraph_dots.png) ![](../../raw/master/misc/images/whitespace.png) 
@@ -36,18 +38,12 @@ of topics.
 ![](../../raw/master/png/structure/32/subgraph_dots3.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/traversing.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/triple.png) ![](../../raw/master/misc/images/whitespace.png) 
-![](../../raw/master/png/structure/32/class.png) ![](../../raw/master/misc/images/whitespace.png) 
-![](../../raw/master/png/structure/32/instance.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
 ### Terms 
 
 ![](../../raw/master/png/terms/32/datacube.png) ![](../../raw/master/misc/images/whitespace.png) 
-<<<<<<< HEAD
 ![](../../raw/master/png/terms/32/dublincore.png) ![](../../raw/master/misc/images/whitespace.png) 
-=======
-![](../../raw/master/png/terms/32/ttl.png) ![](../../raw/master/misc/images/whitespace.png) 
->>>>>>> 3b4899b0c0aafdae593c6d0418971ff7bd07f826
 ![](../../raw/master/png/terms/32/n_triple.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/n_triple2.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/n_triple3.png) ![](../../raw/master/misc/images/whitespace.png) 
@@ -61,6 +57,7 @@ of topics.
 ![](../../raw/master/png/terms/32/rdfxml3.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/sioc.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/skos.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/ttl.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/xsd.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
