@@ -14,7 +14,7 @@
    id="svg3765"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="turtle.svg"
+   sodipodi:docname="ttl.svg"
    inkscape:export-filename="/home/k00ni/Documents/semicon/owl.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -70,19 +70,25 @@
            inkscape:label="Layer 1"
            id="layer1-9-3"
            transform="translate(-44.951788,-4.1416259)">
-          <text
-             xml:space="preserve"
+          <g
+             transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
              style="font-size:21.83279037px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="-0.11261886"
-             y="71.50843"
-             id="text2993-4-5"
-             sodipodi:linespacing="125%"
-             transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
-               sodipodi:role="line"
-               x="-0.11261886"
-               y="71.50843"
-               style="font-size:7.31614113px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
-               id="tspan2987-0-12">TTL</tspan></text>
+             id="text2993-4-5">
+            <path
+               d="m 4.233169,66.438345 0,0.973046 -1.5290735,0 0,4.097039 -1.141318,0 0,-4.097039 -1.52907354,0 0,-0.973046 4.19946504,0"
+               style="font-size:7.31614113px;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+               id="path2988" />
+            <path
+               d="m 9.1583208,66.488853 0,0.973046 -1.5290735,0 0,4.097039 -1.141318,0 0,-4.097039 -1.5290735,0 0,-0.973046 4.199465,0"
+               style="font-size:7.31614113px;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+               id="path2990"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 13.524588,70.629083 0,0.980362 -3.387374,0 0,-5.070085 1.141318,0 0,4.089723 2.246056,0"
+               style="font-size:7.31614113px;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+               id="path2992"
+               inkscape:connector-curvature="0" />
+          </g>
         </g>
       </g>
     </g>
