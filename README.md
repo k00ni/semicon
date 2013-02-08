@@ -6,6 +6,11 @@ Semicon is a collection of icons (called semicons) for the
 of topics.
 
 
+### File 
+
+![](../../raw/master/png/file/32/turtle.png) ![](../../raw/master/misc/images/whitespace.png) 
+
+
 ### Structure 
 
 ![](../../raw/master/png/structure/32/2graphs.png) ![](../../raw/master/misc/images/whitespace.png) 

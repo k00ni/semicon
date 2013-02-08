@@ -36,6 +36,9 @@ of topics." >> ../README.md
 #
 size=32
 
+echo "\n\n### File \n" >> ../README.md
+putImageToReadme "$PWD/../png/file/$size" "![](../../raw/master/png/file/$size/"
+
 echo "\n\n### Structure \n" >> ../README.md
 putImageToReadme "$PWD/../png/structure/$size" "![](../../raw/master/png/structure/$size/"
 
