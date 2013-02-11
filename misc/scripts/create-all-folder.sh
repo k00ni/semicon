@@ -45,6 +45,7 @@ allFolder="$PWD/../svg/all"
 rm -Rf $allFolder
 
 # Copy SVGs
+copyToFolder "$PWD/../svg/file" "$allFolder" "svg"
 copyToFolder "$PWD/../svg/structure" "$allFolder" "svg"
 copyToFolder "$PWD/../svg/terms" "$allFolder" "svg"
 copyToFolder "$PWD/../svg/triplestore" "$allFolder" "svg"
@@ -56,6 +57,7 @@ allFolder="$PWD/../png/all"
 rm -Rf $allFolder
 
 # Copy PNGs
+copyToFolderRecursive "$PWD/../png/file" "$allFolder" "png"
 copyToFolderRecursive "$PWD/../png/structure" "$allFolder" "png"
 copyToFolderRecursive "$PWD/../png/terms" "$allFolder" "png"
 copyToFolderRecursive "$PWD/../png/triplestore" "$allFolder" "png"
