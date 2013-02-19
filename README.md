@@ -6,6 +6,15 @@ Semicon is a collection of icons (called semicons) for the
 of topics.
 
 
+### Action 
+
+![](../../raw/master/png/action/32/traversing.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/infer.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/infer2.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/infer3.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/infer4.png) ![](../../raw/master/misc/images/whitespace.png) 
+
+
 ### File 
 
 ![](../../raw/master/png/file/32/turtle.png) ![](../../raw/master/misc/images/whitespace.png) 

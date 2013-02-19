@@ -77,6 +77,9 @@ svgToPng() {
 # Convert the various icon sets
 sizeDir="$size"
 
+# Action Icons
+svgToPng "$PWD/../svg/action" "$PWD/../png/action/$sizeDir"
+
 # File Icons
 svgToPng "$PWD/../svg/file" "$PWD/../png/file/$sizeDir"
 
