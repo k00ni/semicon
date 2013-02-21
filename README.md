@@ -13,9 +13,9 @@ of topics.
 ![](../../raw/master/png/action/32/infer2.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/action/32/infer3.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/action/32/infer4.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/add_node.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/action/32/export_triple.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/action/32/import_triple.png) ![](../../raw/master/misc/images/whitespace.png) 
-![](../../raw/master/png/action/32/add_node.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
 ### File 
@@ -69,6 +69,10 @@ of topics.
 ![](../../raw/master/png/terms/32/n_triple2.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/n_triple3.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/terms/32/n_triple4.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/n_triple5.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/rdfxml.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/rdfxml2.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/terms/32/rdfxml3.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
 ### Triple Store 
