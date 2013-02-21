@@ -6,6 +6,15 @@ Semicon is a collection of icons (called semicons) for the
 of topics.
 
 
+### Action 
+
+![](../../raw/master/png/action/32/infer.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/infer2.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/infer3.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/infer4.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/traversing.png) ![](../../raw/master/misc/images/whitespace.png) 
+
+
 ### File 
 
 ![](../../raw/master/png/file/32/turtle.png) ![](../../raw/master/misc/images/whitespace.png) 
@@ -25,6 +34,10 @@ of topics.
 ![](../../raw/master/png/structure/32/center3.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/circle.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/class.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/structure/32/collection.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/structure/32/collection2.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/structure/32/collection3.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/structure/32/collection4.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/crooked_construction.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/graph.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/structure/32/graph_dots.png) ![](../../raw/master/misc/images/whitespace.png) 
