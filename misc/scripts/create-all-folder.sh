@@ -40,6 +40,8 @@ copyToFolderRecursive()
 
 # Set folder path for SVGs
 allFolder="$PWD/../svg/all"
+rm -rf "$allFolder"
+mkdir "$allFolder"
 
 # Clean up existing directory contents
 rm -Rf $allFolder
@@ -53,6 +55,7 @@ copyToFolder "$PWD/../svg/triplestore" "$allFolder" "svg"
 
 # Set folder paths for PNGs
 allFolder="$PWD/../png/all"
+rm -rf "$allFolder/*"
 
 # Clean up existing directory contents
 rm -Rf $allFolder

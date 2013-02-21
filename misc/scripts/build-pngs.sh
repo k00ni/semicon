@@ -26,18 +26,18 @@ else
     # Try ImageMagick convert second
     which convert >> /dev/null
     if [ $? -eq 0 ]; then
-	# ImageMagick is installed, does it support svg input?
-	convert -list delegate | grep "svg =" >> /dev/null
-	if [ $? -eq 0 ]; then
-	        convertCmd="convert"
-		convertArgs="-resize ${size}x${size}"
-	else
-		# convert installed but no SVG support
-		echo "Error - ImageMagick convert is installed but no SVG support appears to be installed"
-		exit 1
-	fi
+    # ImageMagick is installed, does it support svg input?
+    convert -list delegate | grep "svg =" >> /dev/null
+    if [ $? -eq 0 ]; then
+        convertCmd="convert"
+        convertArgs="-resize ${size}x${size}"
     else
-	# Neither rsvg-convert or ImageMagick convert are installed
+  # convert installed but no SVG support
+  echo "Error - ImageMagick convert is installed but no SVG support appears to be installed"
+  exit 1
+ fi
+    else
+    # Neither rsvg-convert or ImageMagick convert are installed
         echo "Error - No suitable convert utility available, install rsvg-convert or ImageMagick convert"
         exit 1
     fi
@@ -56,12 +56,12 @@ svgToPng() {
     # First convert svg's to png
     for i in `find $svgFolder -depth -name '*.svg'`; do
         filename=`echo $i | sed -e 's/svg$/png/'`
-	$convertCmd "$i" $convertArgs "$filename"
+    $convertCmd "$i" $convertArgs "$filename"
     done
 
     # May need to create destination directory
     if [ ! -d $pngFolder ]; then
-	mkdir $pngFolder
+    mkdir $pngFolder
     fi
 
     # After that move files
@@ -74,23 +74,34 @@ svgToPng() {
     done
 }
 
+# Removes current folder and related size folder, create it new and fill it
+clearAndConvert() {
+    iconGroup=$1
+    sizeDir=$2
+    echo "Remove folder $PWD/../png/$iconGroup/$sizeDir"
+    rm -rf "$PWD/../png/$iconGroup/$sizeDir"
+    mkdir "$PWD/../png/$iconGroup/$sizeDir"
+    svgToPng "$PWD/../svg/$iconGroup" "$PWD/../png/$iconGroup/$sizeDir"
+}
+
+# 
 # Convert the various icon sets
-sizeDir="$size"
+#
 
 # Action Icons
-svgToPng "$PWD/../svg/action" "$PWD/../png/action/$sizeDir"
+clearAndConvert "action" "$size"
 
 # File Icons
-svgToPng "$PWD/../svg/file" "$PWD/../png/file/$sizeDir"
+clearAndConvert "file" "$size"
 
 # Structure Icons
-svgToPng "$PWD/../svg/structure" "$PWD/../png/structure/$sizeDir"
+clearAndConvert "structure" "$size"
 
 # Terms Icons
-svgToPng "$PWD/../svg/terms" "$PWD/../png/terms/$sizeDir"
+clearAndConvert "terms" "$size"
 
 # Triplestore Icons
-svgToPng "$PWD/../svg/triplestore" "$PWD/../png/triplestore/$sizeDir"
+clearAndConvert "triplestore" "$size"
 
 echo "Icon Conversion completed"
 
