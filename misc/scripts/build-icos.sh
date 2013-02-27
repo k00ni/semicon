@@ -1,14 +1,10 @@
 #
 # Build ICOs
 # 
-# Parameter list:
-#   One/More arguments denoting sizes you wish to include in the ICO
-#
 
-# Did we get any arguments
-if [ $# -eq 0 ]; then
-  echo "No arguments, build-icos.sh requires a series of numbers denoting the sizes of icons to include in the ICO files"
-  exit 1
+# Ensure ICO directory exists
+if [ ! -e "$PWD/../ico" ]; then
+  mkdir "$PWD/../ico"
 fi
 
 echo "Converting SVGs to ICOs"
@@ -27,13 +23,6 @@ if [ $? -eq 0 ]; then
   convert -list delegate | grep "svg =" >> /dev/null
   if [ $? -eq 0 ]; then
     convertCmd="convert"
-
-    # Build up the conversion arguments
-    for size in $@
-    do
-      convertArgs="$convertArgs ( -clone 0 -resize ${size}x${size} )"
-    done
-    convertArgs="$convertArgs -delete 0 -colors 256 -alpha on"
   else
     # convert installed but no SVG support
     echo "Error - ImageMagick convert is installed but no SVG support appears to be installed"
@@ -52,23 +41,37 @@ echo "Using conversion utility $convertCmd from $convertCmdPath"
 # Conversion Function
 # Arguments:
 #  $1 - SVG Source Folder
+#  $1 - PNG Source Folder
 #  $2 - ICO Destination Folder
 svgToIco() {
   svgFolder=$1
-  icoFolder=$2
+  pngFolder=$2
+  icoFolder=$3
 
-  echo "Converting from SVGs in directory $svgFolder to ICOs in directory $icoFolder"
+  echo "Converting from PNGs in sub-directories of $pngFolder to ICOs in directory $icoFolder"
 
   # First convert svg's to ico's
   for i in `find $svgFolder -depth -name '*.svg'`; do
+    pngFilename=`echo $i | sed -e 's/svg$/png/'`
     filename=`echo $i | sed -e 's/svg$/ico/'`
+    inFile=$(basename "$pngFilename")
+
+    # Build up the conversion arguments
+    # We have to do this for every icon since we are generating the arguments
+    # from the list of available PNGs
+    convertArgs=
+    for dir in $pngFolder/*; do
+      if [ -d "$dir" ]; then
+        convertArgs="$convertArgs ( $dir/$inFile )"
+      fi
+    done
+    if [ -z "$convertArgs" ]; then
+      echo "No PNGs detected in $pngFolder, please generate PNGs prior to running this script"
+      exit 1
+    fi
+    convertArgs="$convertArgs -alpha on"
     $convertCmd "$i" $convertArgs "$filename"
   done
-
-  # May need to create destination directory
-  if [ ! -d $icoFolder ]; then
-    mkdir $icoFolder
-  fi
 
   # After that move files
   for i in `find $svgFolder -depth -name '*.ico'`; do 
@@ -83,10 +86,12 @@ svgToIco() {
 # Removes current folder and related size folder, create it new and fill it
 clearAndConvert() {
     iconGroup=$1
-    echo "Remove folder $PWD/../ico/$iconGroup"
-    rm -rf "$PWD/../ico/$iconGroup/"
-    mkdir "$PWD/../ico/$iconGroup/$"
-    svgToIco "$PWD/../svg/$iconGroup" "$PWD/../ico/$iconGroup/"
+    if [ -e "$PWD/../ico/$iconGroup" ]; then
+      echo "Remove folder $PWD/../ico/$iconGroup"
+      rm -rf "$PWD/../ico/$iconGroup/"
+    fi
+    mkdir "$PWD/../ico/$iconGroup/"
+    svgToIco "$PWD/../svg/$iconGroup" "$PWD/../png/$iconGroup" "$PWD/../ico/$iconGroup"
 }
 
 # 

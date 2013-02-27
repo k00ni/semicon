@@ -67,3 +67,16 @@ copyToFolderRecursive "$PWD/../png/structure" "$allFolder" "png"
 copyToFolderRecursive "$PWD/../png/terms" "$allFolder" "png"
 copyToFolderRecursive "$PWD/../png/triplestore" "$allFolder" "png"
 
+# Set folder paths for ICOs
+icoFolder="$PWD/../ico/all"
+
+# Clean up existing directory contents
+rm -rf $allFolder
+
+# Copy ICOs
+copyToFolder "$PWD/../ico/action" "$allFolder" "ico"
+copyToFolder "$PWD/../ico/file" "$allFolder" "ico"
+copyToFolder "$PWD/../ico/structure" "$allFolder" "ico"
+copyToFolder "$PWD/../ico/terms" "$allFolder" "ico"
+copyToFolder "$PWD/../ico/triplestore" "$allFolder" "ico"
+
