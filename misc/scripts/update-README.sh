@@ -26,10 +26,7 @@ putImageToReadme() {
 # Reset readme
 #
 rm ../README.md
-echo "# Semicon \n" > ../README.md
-echo "\nSemicon is a collection of icons (called semicons) for the 
-[Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web) to cover a wide range
-of topics." >> ../README.md
+cat "$PWD/scripts/readme-title.md" > ../README.md
 
 #
 # Add icons to README.md grouped by the topic
@@ -54,19 +51,4 @@ putImageToReadme "$PWD/../png/triplestore/$size" "![](../../raw/master/png/tripl
 #
 # Add general description about the project itself.
 #
-echo "\n
-## Getting started
-
-You can choose between the SVG or PNG version of the icons. SVG icons are scale free, which
-means you can choose the size you want, and it will works. PNG icons are available
-in size 16x16, 32x32, 64x64 and 128x128.
-Simply download it the complete icon set as [zip](../../raw/master/downloads/semicon.zip) 
-or [tar gz](../../raw/master/downloads/semicon.tar.gz). 
-Extract downloaded archive into your images folder and enjoy!
-
-
-## License
-
-Semicon is licensed under the terms of 
-[Creative Commons \"CC BY-SA\" 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US), 
-which includes usage for commercial projects too." >> ../README.md
+cat "$PWD/scripts/readme-main.md" >> ../README.md
