@@ -68,7 +68,7 @@ copyToFolderRecursive "$PWD/../png/terms" "$allFolder" "png"
 copyToFolderRecursive "$PWD/../png/triplestore" "$allFolder" "png"
 
 # Set folder paths for ICOs
-icoFolder="$PWD/../ico/all"
+allFolder="$PWD/../ico/all"
 
 # Clean up existing directory contents
 rm -rf $allFolder
