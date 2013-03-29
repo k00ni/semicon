@@ -13,7 +13,7 @@
    height="16"
    id="svg3765"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="rdfxml.svg"
    inkscape:export-filename="/home/k00ni/Documents/semicon/owl.png"
    inkscape:export-xdpi="90"
@@ -27,18 +27,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.185411"
-     inkscape:cx="4.116529"
-     inkscape:cy="7.9174286"
+     inkscape:zoom="34.465547"
+     inkscape:cx="12.497042"
+     inkscape:cy="6.9117275"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1823"
-     inkscape:window-height="944"
-     inkscape:window-x="48"
-     inkscape:window-y="50"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
   <metadata
@@ -70,24 +70,44 @@
            inkscape:label="Layer 1"
            id="layer1-9-3"
            transform="translate(-44.951788,-4.1416259)">
-          <text
-             xml:space="preserve"
-             style="font-size:5.10955954px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="-2.0323067"
-             y="67.698723"
-             id="text2993-4-5"
-             sodipodi:linespacing="125%"
-             transform="matrix(0.72468789,-0.6899522,0.72468789,0.6899522,0,0)"><tspan
-               sodipodi:role="line"
-               x="-2.0323067"
-               y="67.698723"
-               style="font-size:5.10955954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
-               id="tspan2987-0-12">RDF/</tspan><tspan
-               sodipodi:role="line"
-               x="-2.0323067"
-               y="74.085678"
-               style="font-size:5.10955954px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
-               id="tspan2987">XML</tspan></text>
+          <g
+             transform="matrix(0.43735448,-0.43735448,0.43735448,0.43735448,17.538314,14.899611)"
+             style="font-size:24.60485268px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             id="text2993-4">
+            <path
+               d="m 0.58852508,66.173882 c 0.85748272,5e-6 1.51433832,0.153913 1.97056862,0.461723 0.4562218,0.302324 0.6843348,0.77504 0.6843398,1.41815 -5e-6,0.401263 -0.093449,0.728316 -0.280332,0.981161 -0.1813958,0.247355 -0.4452373,0.442488 -0.7915255,0.5854 0.1154268,0.142916 0.2363542,0.307817 0.3627826,0.494703 0.1264198,0.181393 0.2500955,0.373777 0.3710275,0.577154 0.1264195,0.197882 0.2473468,0.406757 0.3627825,0.626624 0.1154257,0.214372 0.2226113,0.425995 0.3215573,0.63487 l -1.442885,0 C 2.0423997,71.766779 1.9352141,71.577143 1.8252836,71.384758 1.7208428,71.192374 1.6109088,71.005486 1.4954814,70.824094 1.3855441,70.642704 1.2756102,70.472306 1.1656791,70.3129 1.0557422,70.148001 0.9458082,69.99959 0.8358768,69.867667 l -0.6348694,0 0,2.086 -1.2862289,0 0,-5.631374 c 0.28033099,-0.05496 0.5689077,-0.09344 0.86573099,-0.115431 0.30231693,-0.02198 0.57165519,-0.03298 0.80801559,-0.03298 m 0.0742055,1.096592 c -0.0934463,5e-6 -0.17864514,0.0028 -0.25559677,0.0082 -0.0714592,0.0055 -0.14016799,0.011 -0.20612643,0.01649 l 0,1.550071 0.36278251,0 C 1.0474971,68.845283 1.3937892,68.78482 1.6026671,68.663889 1.8115383,68.542965 1.9159756,68.336839 1.9159793,68.04551 1.9159756,67.765182 1.80879,67.567301 1.594422,67.451866 1.3855441,67.330943 1.0749806,67.270479 0.6627306,67.270474"
+               style="font-size:8.24505711px;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+               id="path2990"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 5.708448,70.906544 c 0.060462,0.0055 0.1291705,0.011 0.2061264,0.01649 0.082448,10e-7 0.1786406,10e-7 0.288577,0 0.6431114,10e-7 1.1185758,-0.162152 1.4263949,-0.486459 0.313308,-0.324304 0.4699639,-0.772285 0.4699682,-1.343944 -4.3e-6,-0.599137 -0.1484152,-1.052615 -0.4452331,-1.360435 -0.2968256,-0.30781 -0.7667934,-0.461718 -1.4099047,-0.461723 -0.08795,5e-6 -0.1786452,0.0028 -0.2720869,0.0082 -0.093446,5e-6 -0.1813933,0.0055 -0.2638418,0.01649 l 0,3.611335 m 3.7185207,-1.813912 c -5.6e-6,0.494706 -0.076959,0.926197 -0.2308616,1.294474 -0.153913,0.36828 -0.373781,0.673347 -0.6596045,0.915201 -0.2803365,0.241856 -0.6238802,0.423247 -1.0306322,0.544174 -0.4067595,0.120927 -0.8629855,0.181391 -1.3686795,0.181391 -0.2308637,0 -0.500202,-0.01099 -0.8080156,-0.03298 -0.3078167,-0.01649 -0.6101351,-0.05497 -0.9069562,-0.115431 l 0,-5.565413 c 0.2968211,-0.05496 0.6046362,-0.09069 0.9234464,-0.107186 0.3243036,-0.02198 0.6018869,-0.03298 0.8327507,-0.03298 0.4892038,5e-6 0.9316881,0.05497 1.3274542,0.164901 0.4012553,0.109939 0.744799,0.283085 1.0306322,0.519438 0.2858235,0.236364 0.5056915,0.538682 0.6596045,0.906957 0.1539022,0.368283 0.230856,0.810767 0.2308616,1.327454"
+               style="font-size:8.24505711px;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+               id="path2992"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 10.720571,72.130444 0,-5.713825 3.825706,0 0,1.080103 -2.539477,0 0,1.195533 2.259145,0 0,1.080102 -2.259145,0 0,2.358087 -1.286229,0"
+               style="font-size:8.24505711px;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+               id="path2994"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+             style="font-size:17.40639687px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             id="text3001">
+            <path
+               d="m 3.2851806,71.438934 1.1078003,1.629621 -0.8575829,0 -0.7463751,-1.090691 -0.7399593,1.090691 -0.8618601,0 1.1078003,-1.629621 -1.0650282,-1.563325 0.8597216,0 0.6993257,1.028672 0.6971871,-1.028672 0.8639987,0 -1.0650281,1.563325"
+               style="font-size:4.35159922px;font-weight:bold;fill:#2d2d2d;-inkscape-font-specification:Sans Bold"
+               id="path3774"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 4.871338,69.90657 1.0411542,0 0.7224334,1.697719 0.7266831,-1.697719 1.0390293,0 0,3.172333 -0.7734288,0 0,-2.320286 -0.7309327,1.710467 -0.5184522,0 -0.7309327,-1.710467 0,2.320286 -0.7755536,0 0,-3.172333"
+               style="font-size:4.35159922px;font-weight:bold;fill:#2d2d2d;-inkscape-font-specification:Sans Bold"
+               id="path3776" />
+            <path
+               d="m 9.2059387,69.90657 0.8180493,0 0,2.554015 1.436368,0 0,0.618318 -2.2544173,0 0,-3.172333"
+               style="font-size:4.35159922px;font-weight:bold;fill:#2d2d2d;-inkscape-font-specification:Sans Bold"
+               id="path3778" />
+          </g>
         </g>
       </g>
     </g>
