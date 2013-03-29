@@ -14,6 +14,13 @@ of topics.
 ![](../../raw/master/png/action/32/infer3.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/action/32/infer4.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/action/32/traversing.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/interchange2.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/order.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/interchange.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/select2.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/select.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/select3.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/action/32/select4.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
 ### File 
