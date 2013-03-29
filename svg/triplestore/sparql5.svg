@@ -34,10 +34,10 @@
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -72,7 +72,7 @@
            transform="translate(-44.951788,-4.1416259)">
           <g
              id="g3767"
-             transform="matrix(0.99907247,-0.04306044,0.04306044,0.99907247,-1.6119245,1.9031188)">
+             transform="matrix(0.85881227,-0.07527745,0.07527745,0.85881227,4.1653923,9.883904)">
             <path
                d="m 14.142136,28.352533 c 0,2.092095 -1.695978,3.788072 -3.788072,3.788072 -2.0920945,0 -3.7880721,-1.695977 -3.7880721,-3.788072 0,-2.092094 1.6959776,-3.788072 3.7880721,-3.788072 2.092094,0 3.788072,1.695978 3.788072,3.788072 z"
                sodipodi:ry="3.7880721"
@@ -136,26 +136,26 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-size:51.98950958px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="-52.421112"
-             y="57.171734"
+             style="font-size:46.26911163px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="-54.052372"
+             y="54.738281"
              id="text2993"
              sodipodi:linespacing="125%"
-             transform="matrix(0,-0.98713146,1.0130363,0,0,0)"><tspan
+             transform="matrix(0,-0.95230885,1.0500795,0,0,0)"><tspan
                sodipodi:role="line"
                id="tspan2995"
-               x="-52.421112"
-               y="57.171734"
-               style="font-size:15.5968523px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">{</tspan></text>
+               x="-54.052372"
+               y="54.738281"
+               style="font-size:13.88073254px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">{</tspan></text>
           <rect
-             style="fill:#2d2d2d;fill-opacity:1;stroke:#2d2d2d;stroke-width:0.89599109;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:#2d2d2d;fill-opacity:1;stroke:#2d2d2d;stroke-width:0.7974053;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              id="rect3765"
-             width="1.4285715"
-             height="2.5485713"
-             x="52.513214"
-             y="49.199085"
-             rx="1.2018645"
-             ry="0.8536303" />
+             width="1.317876"
+             height="2.1881397"
+             x="52.494446"
+             y="49.28738"
+             rx="1.1087358"
+             ry="0.73290569" />
         </g>
       </g>
     </g>

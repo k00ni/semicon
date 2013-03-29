@@ -27,20 +27,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="28"
-     inkscape:cx="4.5030273"
-     inkscape:cy="8.7265623"
+     inkscape:zoom="39.59798"
+     inkscape:cx="8.7679004"
+     inkscape:cy="5.2342452"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="10.354064,0.98489872"
+       id="guide2989" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3770">
     <rdf:RDF>
@@ -72,29 +77,30 @@
            transform="translate(-44.951788,-4.1416259)">
           <text
              xml:space="preserve"
-             style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="45.013206"
-             y="49.018238"
+             style="font-size:12.4243412px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="41.626686"
+             y="52.063961"
              id="text3001"
-             sodipodi:linespacing="125%"><tspan
+             sodipodi:linespacing="125%"
+             transform="scale(1.0758636,0.92948586)"><tspan
                sodipodi:role="line"
                id="tspan3003"
-               x="45.013206"
-               y="49.018238"
-               style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">{</tspan></text>
+               x="41.626686"
+               y="52.063961"
+               style="font-size:16.56578827px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">{</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:10.09082794px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="-51.930569"
-             y="-51.09127"
+             style="font-size:9.21100044px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="-53.312645"
+             y="-47.727146"
              id="text3001-2-0"
              sodipodi:linespacing="125%"
-             transform="scale(-1.1847858,-0.84403443)"><tspan
+             transform="scale(-1.1319041,-0.88346707)"><tspan
                sodipodi:role="line"
                id="tspan3003-4-4"
-               x="-51.930569"
-               y="-51.09127"
-               style="font-size:13.45443916px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">{</tspan></text>
+               x="-53.312645"
+               y="-47.727146"
+               style="font-size:12.28133583px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">{</tspan></text>
         </g>
       </g>
     </g>
