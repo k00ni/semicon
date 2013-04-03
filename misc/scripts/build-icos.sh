@@ -101,6 +101,9 @@ clearAndConvert() {
 # Action Icons
 clearAndConvert "action"
 
+# DataCube Icons
+clearAndConvert "datacube"
+
 # File Icons
 clearAndConvert "file"
 

@@ -91,6 +91,9 @@ clearAndConvert() {
 # Action Icons
 clearAndConvert "action" "$size"
 
+# DataCube Icons
+clearAndConvert "datacube" "$size"
+
 # File Icons
 clearAndConvert "file" "$size"
 

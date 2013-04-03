@@ -48,6 +48,7 @@ rm -Rf $allFolder
 
 # Copy SVGs
 copyToFolder "$PWD/../svg/action" "$allFolder" "svg"
+copyToFolder "$PWD/../svg/datacube" "$allFolder" "svg"
 copyToFolder "$PWD/../svg/file" "$allFolder" "svg"
 copyToFolder "$PWD/../svg/structure" "$allFolder" "svg"
 copyToFolder "$PWD/../svg/terms" "$allFolder" "svg"
@@ -62,6 +63,7 @@ rm -Rf $allFolder
 
 # Copy PNGs
 copyToFolderRecursive "$PWD/../png/action" "$allFolder" "png"
+copyToFolderRecursive "$PWD/../png/datacube" "$allFolder" "png"
 copyToFolderRecursive "$PWD/../png/file" "$allFolder" "png"
 copyToFolderRecursive "$PWD/../png/structure" "$allFolder" "png"
 copyToFolderRecursive "$PWD/../png/terms" "$allFolder" "png"
@@ -75,6 +77,7 @@ rm -rf $allFolder
 
 # Copy ICOs
 copyToFolder "$PWD/../ico/action" "$allFolder" "ico"
+copyToFolder "$PWD/../ico/datacube" "$allFolder" "ico"
 copyToFolder "$PWD/../ico/file" "$allFolder" "ico"
 copyToFolder "$PWD/../ico/structure" "$allFolder" "ico"
 copyToFolder "$PWD/../ico/terms" "$allFolder" "ico"
