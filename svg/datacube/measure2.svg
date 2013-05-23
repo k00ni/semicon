@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.672166"
-     inkscape:cx="26.301736"
-     inkscape:cy="11.632483"
+     inkscape:zoom="22.395603"
+     inkscape:cx="16.087994"
+     inkscape:cy="15.207983"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,42 +59,42 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-size:35.18645096px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="2.2706656"
-       y="10.673427"
+       style="font-size:41.32844162px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-0.3224436"
+       y="9.5886145"
        id="text3005"
        sodipodi:linespacing="125%"
-       transform="scale(0.94975408,1.0529041)"><tspan
+       transform="scale(0.94975411,1.0529041)"><tspan
          sodipodi:role="line"
          id="tspan3007"
-         x="2.2706656"
-         y="10.673427"
-         style="font-size:11.43559551px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">0.987</tspan></text>
+         x="-0.3224436"
+         y="9.5886145"
+         style="font-size:13.43174171px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">0.987</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:46.883564px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="15.744781"
-       y="20.41852"
+       style="font-size:55.06734848px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="14.470115"
+       y="22.653902"
        id="text3005-0"
        sodipodi:linespacing="125%"
-       transform="scale(0.7168547,1.3949828)"><tspan
+       transform="scale(0.71685471,1.3949828)"><tspan
          sodipodi:role="line"
          id="tspan3007-4"
-         x="15.744781"
-         y="20.41852"
-         style="font-size:15.23715782px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">100</tspan></text>
+         x="14.470115"
+         y="22.653902"
+         style="font-size:17.89688873px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">100</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:35.45983505px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="12.610306"
-       y="-2.6465299"
+       style="font-size:34.85575485px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="10.20822"
+       y="-0.25791031"
        id="text3005-0-2"
        sodipodi:linespacing="125%"
-       transform="matrix(0,0.99310248,-1.0069454,0,0,0)"><tspan
+       transform="matrix(0,0.9931025,-1.0069454,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3007-4-7"
-         x="12.610306"
-         y="-2.6465299"
-         style="font-size:11.52444553px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">1.0</tspan></text>
+         x="10.20822"
+         y="-0.25791031"
+         style="font-size:11.32811928px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">11.0</tspan></text>
   </g>
 </svg>

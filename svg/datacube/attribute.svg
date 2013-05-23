@@ -59,26 +59,26 @@
      inkscape:groupmode="layer">
     <path
        sodipodi:type="arc"
-       style="fill:#2d2d2d;stroke:#2d2d2d;stroke-width:1.80000000000000004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       style="fill:#2d2d2d;fill-opacity:1;stroke:#2d2d2d;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="path4396"
        sodipodi:cx="19.646713"
        sodipodi:cy="17.354269"
        sodipodi:rx="13.574093"
        sodipodi:ry="13.574093"
        d="m 33.220806,17.354269 a 13.574093,13.574093 0 1 1 -27.1481856,0 13.574093,13.574093 0 1 1 27.1481856,0 z"
-       transform="translate(-3.8400393,-1.1609421)" />
+       transform="matrix(1.098162,0,0,1.098162,-5.6107326,-3.085486)" />
     <text
        xml:space="preserve"
-       style="font-size:74.00914001px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="7.8008423"
-       y="23.290621"
+       style="font-size:72.37931824px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="8.3332014"
+       y="22.600761"
        id="text3754"
        sodipodi:linespacing="125%"
-       transform="scale(1.009801,0.99029414)"><tspan
+       transform="scale(1.009801,0.99029413)"><tspan
          sodipodi:role="line"
          id="tspan3756"
-         x="7.8008423"
-         y="23.290621"
-         style="font-size:22.20273781px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">A</tspan></text>
+         x="8.3332014"
+         y="22.600761"
+         style="font-size:21.7137928px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">A</tspan></text>
   </g>
 </svg>

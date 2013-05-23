@@ -66,9 +66,9 @@
        sodipodi:rx="13.574093"
        sodipodi:ry="13.574093"
        d="m 33.220806,17.354269 a 13.574093,13.574093 0 1 1 -27.1481856,0 13.574093,13.574093 0 1 1 27.1481856,0 z"
-       transform="translate(-3.6705402,-1.5830296)" />
+       transform="matrix(1.098162,0,0,1.098162,-5.5043805,-3.0655451)" />
     <g
-       transform="matrix(0.98212609,0,0,1.0181992,-1.0103509,0)"
+       transform="matrix(1.0785336,0,0,1.1181477,-2.5830617,-1.3271221)"
        style="font-size:55.83787537px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
        id="text3754">
       <path

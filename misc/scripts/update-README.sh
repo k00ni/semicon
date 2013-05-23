@@ -42,6 +42,9 @@ putImageToReadme "$PWD/../png/datacube/$size" "![](../../raw/master/png/datacube
 echo "\n\n### File \n" >> ../README.md
 putImageToReadme "$PWD/../png/file/$size" "![](../../raw/master/png/file/$size/"
 
+echo "\n\n### Graph \n" >> ../README.md
+putImageToReadme "$PWD/../png/graph/$size" "![](../../raw/master/png/graph/$size/"
+
 echo "\n\n### Structure \n" >> ../README.md
 putImageToReadme "$PWD/../png/structure/$size" "![](../../raw/master/png/structure/$size/"
 

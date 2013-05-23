@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,29 +59,29 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-size:72.79919434px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-4.1554971"
-       y="27.274645"
+       style="font-size:88.03251648px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-7.068152"
+       y="30.029854"
        id="text3754"
        sodipodi:linespacing="125%"
-       transform="matrix(0.8105308,-0.46997398,0.3567568,1.0268994,0,0)"><tspan
+       transform="matrix(0.80662015,-0.4722525,0.35503552,1.031878,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3756"
-         x="-4.1554971"
-         y="27.274645"
-         style="font-size:21.8397541px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">%</tspan></text>
+         x="-7.068152"
+         y="30.029854"
+         style="font-size:26.40974998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">%</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:52.0086174px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="14.94349"
-       y="-6.1393237"
+       style="font-size:58.44474792px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="12.463141"
+       y="-9.5710011"
        id="text3754-2"
        sodipodi:linespacing="125%"
-       transform="matrix(0.71758955,0.71046696,-0.69674249,0.70372748,0,0)"><tspan
+       transform="matrix(0.64443176,0.77743535,-0.76241724,0.63198295,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3756-3"
-         x="14.94349"
-         y="-6.1393237"
-         style="font-size:15.60258198px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">.0</tspan></text>
+         x="12.463141"
+         y="-9.5710011"
+         style="font-size:17.53342056px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">.0</tspan></text>
   </g>
 </svg>

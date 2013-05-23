@@ -66,19 +66,19 @@
        sodipodi:rx="13.574093"
        sodipodi:ry="13.574093"
        d="m 33.220806,17.354269 a 13.574093,13.574093 0 1 1 -27.1481856,0 13.574093,13.574093 0 1 1 27.1481856,0 z"
-       transform="translate(-3.6705402,-1.5830296)" />
+       transform="matrix(1.1003434,0,0,1.1003434,-5.5788108,-3.0718278)" />
     <text
        xml:space="preserve"
-       style="font-size:69.89692688px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="9.6452932"
-       y="22.6731"
+       style="font-size:76.91062164px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="9.0881252"
+       y="23.605207"
        id="text3754"
        sodipodi:linespacing="125%"
        transform="scale(1.009801,0.99029413)"><tspan
          sodipodi:role="line"
          id="tspan3756"
-         x="9.6452932"
-         y="22.6731"
-         style="font-size:20.96907425px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">S</tspan></text>
+         x="9.0881252"
+         y="23.605207"
+         style="font-size:23.07318115px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">S</tspan></text>
   </g>
 </svg>
