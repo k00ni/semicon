@@ -54,9 +54,9 @@ Semicon is a collection of icons (called semicons) for the [Semantic Web](http:/
 ![](../../raw/master/png/file/32/turtle.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
-### Graph 
+### Chart 
 
-![](../../raw/master/png/graph/32/bar.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/chart/32/bar.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
 ### Structure 

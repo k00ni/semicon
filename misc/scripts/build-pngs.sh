@@ -97,8 +97,8 @@ clearAndConvert "datacube" "$size"
 # File Icons
 clearAndConvert "file" "$size"
 
-# Graph Icons
-clearAndConvert "graph" "$size"
+# Chart Icons
+clearAndConvert "chart" "$size"
 
 # Structure Icons
 clearAndConvert "structure" "$size"

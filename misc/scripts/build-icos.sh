@@ -107,8 +107,8 @@ clearAndConvert "datacube"
 # File Icons
 clearAndConvert "file"
 
-# File Icons
-clearAndConvert "graph"
+# Chart Icons
+clearAndConvert "chart"
 
 # Structure Icons
 clearAndConvert "structure"

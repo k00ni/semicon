@@ -37,9 +37,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3009">
@@ -69,16 +69,16 @@
        transform="matrix(1.1003434,0,0,1.1003434,-5.5788108,-3.0718278)" />
     <text
        xml:space="preserve"
-       style="font-size:76.91062164px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="9.0881252"
-       y="23.605207"
+       style="font-size:88.60185242px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="8.3330126"
+       y="25.277781"
        id="text3754"
        sodipodi:linespacing="125%"
        transform="scale(1.009801,0.99029413)"><tspan
          sodipodi:role="line"
          id="tspan3756"
-         x="9.0881252"
-         y="23.605207"
-         style="font-size:23.07318115px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">S</tspan></text>
+         x="8.3330126"
+         y="25.277781"
+         style="font-size:26.58054733px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">S</tspan></text>
   </g>
 </svg>

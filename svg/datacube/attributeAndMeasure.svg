@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.836083"
-     inkscape:cx="1.7598019"
-     inkscape:cy="9.5467819"
+     inkscape:zoom="22.395603"
+     inkscape:cx="31.819597"
+     inkscape:cy="16.470923"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -37,9 +37,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3009">
@@ -69,27 +69,28 @@
        transform="matrix(1.098162,0,0,1.098162,-5.5475857,-3.0854861)" />
     <text
        xml:space="preserve"
-       style="font-size:46.58577347px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="5.8509693"
-       y="16.252718"
+       style="font-size:52.93796921px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="5.5220809"
+       y="17.073627"
        id="text3754"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3756"
-         x="5.8509693"
-         y="16.252718"
-         style="font-size:13.97572994px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold">A</tspan></text>
+         x="5.5220809"
+         y="17.073627"
+         style="font-size:15.88138866px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold">A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:46.48767471px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="11.206009"
-       y="24.37339"
+       style="font-size:53.74434662px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="10.82373"
+       y="24.645079"
        id="text3754-8"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.99536131,1.0046603)"><tspan
          sodipodi:role="line"
          id="tspan3756-2"
-         x="11.206009"
-         y="24.37339"
-         style="font-size:13.94630337px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold">M</tspan></text>
+         x="10.82373"
+         y="24.645079"
+         style="font-size:16.12330627px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold">M</tspan></text>
   </g>
 </svg>
