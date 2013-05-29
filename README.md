@@ -52,11 +52,26 @@ Semicon is a collection of icons (called semicons) for the [Semantic Web](http:/
 ### File 
 
 ![](../../raw/master/png/file/32/turtle.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/file/32/rdf_xml3.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/file/32/rdf_xml2.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/file/32/rdf_xml4.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/file/32/ntriple.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/file/32/ntriple2.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/file/32/ntriple3.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/file/32/rdf_xml.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
 ### Chart 
 
+![](../../raw/master/png/chart/32/area.png) ![](../../raw/master/misc/images/whitespace.png) 
 ![](../../raw/master/png/chart/32/bar.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/chart/32/column.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/chart/32/column_stacked.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/chart/32/line.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/chart/32/pie.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/chart/32/polar.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/chart/32/spline.png) ![](../../raw/master/misc/images/whitespace.png) 
+![](../../raw/master/png/chart/32/bar_stacked.png) ![](../../raw/master/misc/images/whitespace.png) 
 
 
 ### Structure 

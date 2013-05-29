@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="bar.svg"
-   inkscape:export-filename="/home/k00ni/Documents/ow_cubeviz/extensions/cubeviz/public/images/attributeAndMeasure.png"
+   inkscape:export-filename="/home/k00ni/Documents/ow_cubeviz/extensions/cubeviz/public/images/bar.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.672166"
-     inkscape:cx="13.248836"
-     inkscape:cy="12.74516"
+     inkscape:zoom="15.836083"
+     inkscape:cx="27.895513"
+     inkscape:cy="15.13197"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -37,9 +37,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3009">
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,26 +60,42 @@
     <rect
        style="fill:#2d2d2d;fill-opacity:1;stroke:none"
        id="rect3012"
-       width="9.5667591"
-       height="29.584337"
-       x="3.4957785e-07"
-       y="2.3840909"
-       rx="1.2732743" />
+       width="15.293534"
+       height="5.1438689"
+       x="0.10276634"
+       y="6.6849513"
+       ry="0.13591394" />
     <rect
        style="fill:#2d2d2d;fill-opacity:1;stroke:none"
-       id="rect3012-4"
-       width="9.9772148"
-       height="12.850401"
-       x="11.082289"
-       y="19.102243"
-       rx="1.3279032" />
+       id="rect3012-6"
+       width="31.824015"
+       height="5.1438689"
+       x="0.10276634"
+       y="13.161448"
+       ry="0.13591394" />
     <rect
        style="fill:#2d2d2d;fill-opacity:1;stroke:none"
-       id="rect3012-4-0"
-       width="9.6299067"
-       height="23.964262"
-       x="22.259291"
-       y="8.0041656"
-       rx="1.2816787" />
+       id="rect3012-6-2"
+       width="14.67876"
+       height="5.1438689"
+       x="0.10276634"
+       y="20.054045"
+       ry="0.13591394" />
+    <rect
+       style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+       id="rect3012-6-7"
+       width="24.446777"
+       height="5.1438689"
+       x="0.10276634"
+       y="0.10612408"
+       ry="0.13591394" />
+    <rect
+       style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+       id="rect3012-6-2-0"
+       width="7.1649051"
+       height="5.1438689"
+       x="0.10276634"
+       y="26.855791"
+       ry="0.13591394" />
   </g>
 </svg>
