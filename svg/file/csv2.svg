@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg3765"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="csv2.svg"
+   inkscape:export-filename="/home/k00ni/Documents/semicon/owl.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3767" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="6.7633374"
+     inkscape:cy="8.1480701"
+     inkscape:current-layer="layer1-9"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3770">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,-32)">
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-4"
+       transform="translate(0.20202972,-1.9622142e-8)">
+      <g
+         transform="translate(-0.37059768,-0.09089584)"
+         id="layer1-9"
+         inkscape:label="Layer 1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3939"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           d="m 6.8316754,37.021782 c 0.031149,0.215906 0.046737,0.43179 0.046746,0.64768 -8e-6,0.188896 -8e-6,0.391309 0,0.6072 -8e-6,1.700161 -0.2960636,3.373337 -0.888174,5.019522 -0.5609588,1.673172 -1.3400578,3.265382 -2.3373,4.776642 l -3.365712,-0.93104 c 0.7790978,-1.376324 1.2933029,-2.77963 1.542618,-4.209921 0.2493091,-1.403311 0.3739638,-2.725653 0.373968,-3.967042 -3.4e-6,-0.350815 -0.015596,-0.688157 -0.046746,-1.012 -3.3e-6,-0.323841 -0.015596,-0.634182 -0.046746,-0.931041 l 4.7213461,0"
+           sodipodi:nodetypes="ccccccccccc" />
+        <rect
+           style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+           id="rect3947-3"
+           width="4.7948303"
+           height="3.063879"
+           x="2.0335674"
+           y="32.181774"
+           rx="71.721588"
+           ry="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3939-7"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           d="m 16.104915,37.002874 c 0.03115,0.215906 0.04674,0.43179 0.04675,0.64768 -8e-6,0.188896 -8e-6,0.391309 0,0.6072 -8e-6,1.700161 -0.296064,3.373337 -0.888174,5.019522 -0.560959,1.673172 -1.340058,3.265382 -2.3373,4.776642 l -3.3657121,-0.93104 c 0.7790981,-1.376324 1.2933031,-2.77963 1.5426181,-4.209921 0.249309,-1.403311 0.373964,-2.725653 0.373968,-3.967042 -3e-6,-0.350815 -0.0156,-0.688157 -0.04675,-1.012 -3e-6,-0.323841 -0.0156,-0.634182 -0.04675,-0.931041 l 4.721346,0"
+           sodipodi:nodetypes="ccccccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>
