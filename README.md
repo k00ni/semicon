@@ -67,7 +67,10 @@ Semicon is a collection of icons (called semicons) for the [Semantic Web](http:/
 ![](https://rawgithub.com/k00ni/semicon/master/svg/file/ntriple.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/file/ntriple2.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/file/ntriple3.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
+![](https://rawgithub.com/k00ni/semicon/master/svg/file/csv.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/file/rdf_xml.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
+![](https://rawgithub.com/k00ni/semicon/master/svg/file/csv2.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
+![](https://rawgithub.com/k00ni/semicon/master/svg/file/csv3.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 
 
 ### Chart 
@@ -143,7 +146,6 @@ Semicon is a collection of icons (called semicons) for the [Semantic Web](http:/
 ![](https://rawgithub.com/k00ni/semicon/master/svg/triplestore/sparql4.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/triplestore/sparql5.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/triplestore/sparql6.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
-
 
 ## Download and Enjoy!
 
