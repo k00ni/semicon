@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="32"
+   height="32"
    id="svg3765"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="28"
-     inkscape:cx="3.190166"
-     inkscape:cy="8.6304284"
+     inkscape:zoom="14"
+     inkscape:cx="10.564521"
+     inkscape:cy="6.9259104"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -57,7 +57,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-32)">
+     transform="translate(0,-16)">
     <g
        inkscape:label="Layer 1"
        id="layer1-4"
@@ -72,7 +72,7 @@
            transform="translate(-44.951788,-4.1416259)">
           <g
              id="g3767"
-             transform="matrix(1.0217706,0.01106132,-0.01106132,1.0217706,-0.95720344,-1.6238048)">
+             transform="matrix(2.0365686,0.02204716,-0.02204716,2.0365686,-46.737913,-55.139593)">
             <path
                d="m 14.142136,28.352533 c 0,2.092095 -1.695978,3.788072 -3.788072,3.788072 -2.0920945,0 -3.7880721,-1.695977 -3.7880721,-3.788072 0,-2.092094 1.6959776,-3.788072 3.7880721,-3.788072 2.092094,0 3.788072,1.695978 3.788072,3.788072 z"
                sodipodi:ry="3.7880721"
@@ -136,26 +136,26 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-size:52.59347534px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="-54.399776"
-             y="55.339584"
+             style="font-size:104.82804871px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="-53.92598"
+             y="67.609482"
              id="text2993"
              sodipodi:linespacing="125%"
              transform="matrix(0,-0.95230885,1.0500795,0,0,0)"><tspan
                sodipodi:role="line"
                id="tspan2995"
-               x="-54.399776"
-               y="55.339584"
-               style="font-size:15.77804184px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">{</tspan></text>
+               x="-53.92598"
+               y="67.609482"
+               style="font-size:31.44841385px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">{</tspan></text>
           <rect
-             style="fill:#2d2d2d;fill-opacity:1;stroke:#2d2d2d;stroke-width:0.90639991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:#2d2d2d;fill-opacity:1;stroke:#2d2d2d;stroke-width:1.80661452;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              id="rect3765"
-             width="1.4980119"
-             height="2.4872289"
-             x="52.444466"
-             y="49.31926"
-             rx="1.260285"
-             ry="0.83308405" />
+             width="2.9858015"
+             height="4.9574847"
+             x="59.701008"
+             y="46.398895"
+             rx="2.5119698"
+             ry="1.6604831" />
         </g>
       </g>
     </g>

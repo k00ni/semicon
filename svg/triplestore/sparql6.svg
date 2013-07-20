@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="32"
+   height="32"
    id="svg3765"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="28"
-     inkscape:cx="9.3392858"
-     inkscape:cy="8.410714"
+     inkscape:zoom="14"
+     inkscape:cx="14.829118"
+     inkscape:cy="4.6872804"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -57,7 +57,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-32)">
+     transform="translate(0,-16)">
     <g
        inkscape:label="Layer 1"
        id="layer1-4"
@@ -72,56 +72,56 @@
            transform="translate(-44.951788,-4.1416259)">
           <text
              xml:space="preserve"
-             style="font-size:45.46232224px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="56.984127"
-             y="40.161076"
+             style="font-size:103.10168457px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="65.136253"
+             y="31.514431"
              id="text2991"
              sodipodi:linespacing="125%"
              transform="scale(0.93233018,1.0725814)"><tspan
                sodipodi:role="line"
                id="tspan2993"
-               x="56.984127"
-               y="40.161076"
-               style="font-size:10.22902298px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">s</tspan></text>
+               x="65.136253"
+               y="31.514431"
+               style="font-size:23.19787979px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">s</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:44.49139404px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="52.020348"
-             y="48.426788"
+             style="font-size:100.89976501px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="54.932346"
+             y="49.129299"
              id="text2991-4"
              sodipodi:linespacing="125%"
              transform="scale(0.94790594,1.054957)"><tspan
                sodipodi:role="line"
                id="tspan2993-8"
-               x="52.020348"
-               y="48.426788"
-               style="font-size:10.01056385px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">o</tspan></text>
+               x="54.932346"
+               y="49.129299"
+               style="font-size:22.70244789px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">o</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:38.73976517px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="57.853409"
-             y="46.883816"
+             style="font-size:87.85594177px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="69.098602"
+             y="44.993176"
              id="text2991-7"
              sodipodi:linespacing="125%"
              transform="scale(0.96106893,1.0405081)"><tspan
                sodipodi:role="line"
                id="tspan2993-6"
-               x="57.853409"
-               y="46.883816"
-               style="font-size:8.71644688px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">p</tspan></text>
+               x="69.098602"
+               y="44.993176"
+               style="font-size:19.76758766px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">p</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:55.48597336px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="60.607563"
-             y="32.38089"
+             style="font-size:125.83381653px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="56.551403"
+             y="29.331409"
              id="text2991-7-8"
              sodipodi:linespacing="125%"
              transform="matrix(0.87113634,0.19203784,-0.24132724,1.0947265,0,0)"><tspan
                sodipodi:role="line"
                id="tspan2993-6-4"
-               x="60.607563"
-               y="32.38089"
-               style="font-size:12.48434353px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">?</tspan></text>
+               x="56.551403"
+               y="29.331409"
+               style="font-size:28.31260681px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">?</tspan></text>
         </g>
       </g>
     </g>

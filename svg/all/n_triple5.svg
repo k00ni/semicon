@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="32"
+   height="32"
    id="svg3765"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="n_triple.svg"
+   sodipodi:docname="n_triple5.svg"
    inkscape:export-filename="/home/k00ni/Documents/semicon/owl.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,18 +27,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="28"
-     inkscape:cx="4.1160716"
-     inkscape:cy="7.9165488"
+     inkscape:zoom="14"
+     inkscape:cx="22.18189"
+     inkscape:cy="13.119111"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1277"
-     inkscape:window-height="649"
-     inkscape:window-x="48"
-     inkscape:window-y="50"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
   <metadata
@@ -57,7 +57,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-32)">
+     transform="translate(0,-16)">
     <g
        inkscape:label="Layer 1"
        id="layer1-4"
@@ -72,16 +72,16 @@
            transform="translate(-44.951788,-4.1416259)">
           <text
              xml:space="preserve"
-             style="font-size:21.83279037px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="1.9076862"
-             y="71.50843"
+             style="font-size:39.34051895px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="7.8653564"
+             y="73.389755"
              id="text2993-4-5"
              sodipodi:linespacing="125%"
              transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
                sodipodi:role="line"
-               x="1.9076862"
-               y="71.50843"
-               style="font-size:7.31614113px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+               x="7.8653564"
+               y="73.389755"
+               style="font-size:13.18295956px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2d2d2d;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
                id="tspan2987-0-12">NT</tspan></text>
         </g>
       </g>

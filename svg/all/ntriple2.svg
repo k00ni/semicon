@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="32"
+   height="32"
    id="svg3765"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="39.59798"
-     inkscape:cx="0.60064637"
-     inkscape:cy="7.191614"
+     inkscape:zoom="19.79899"
+     inkscape:cx="14.989291"
+     inkscape:cy="12.977764"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -57,7 +57,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-32)">
+     transform="translate(0,-16)">
     <g
        inkscape:label="Layer 1"
        id="layer1-4"
@@ -79,32 +79,32 @@
              sodipodi:rx="2.5127544"
              sodipodi:ry="2.5127544"
              d="m 6.2124381,6.8202386 a 2.5127544,2.5127544 0 1 1 -5.0255089,0 2.5127544,2.5127544 0 1 1 5.0255089,0 z"
-             transform="matrix(-0.84106974,0.89974454,0.89974454,0.84106974,45.277556,30.338519)" />
+             transform="matrix(-1.6886733,1.8064787,1.8064787,1.6886733,45.348141,8.2859201)" />
           <rect
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
              id="rect3935"
-             width="1.9192898"
-             height="9.4449263"
-             x="47.443707"
-             y="39.656124"
-             ry="0.13789406" />
+             width="3.8534896"
+             height="18.963224"
+             x="49.697269"
+             y="26.993513"
+             ry="0.27685934" />
           <rect
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
              id="rect3935-2"
-             width="1.9192898"
-             height="14.546197"
-             x="7.0575361"
-             y="61.54578"
-             ry="0.2123716"
+             width="3.8534896"
+             height="29.205395"
+             x="17.410696"
+             y="54.037861"
+             ry="0.426393"
              transform="matrix(0.72476013,-0.68900127,0.68900127,0.72476013,0,0)" />
           <rect
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
              id="rect3935-3"
-             width="1.9192898"
-             height="9.4449263"
-             x="57.115921"
-             y="39.807648"
-             ry="0.13789406" />
+             width="3.8534896"
+             height="18.963224"
+             x="69.116837"
+             y="27.297737"
+             ry="0.27685934" />
           <path
              sodipodi:type="arc"
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
@@ -114,7 +114,7 @@
              sodipodi:rx="2.5127544"
              sodipodi:ry="2.5127544"
              d="m 6.2124381,6.8202386 a 2.5127544,2.5127544 0 1 1 -5.0255089,0 2.5127544,2.5127544 0 1 1 5.0255089,0 z"
-             transform="matrix(-0.84106974,0.89974454,0.89974454,0.84106974,54.97502,30.313264)" />
+             transform="matrix(-1.6886733,1.8064787,1.8064787,1.6886733,64.818403,8.235214)" />
           <path
              sodipodi:type="arc"
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
@@ -124,7 +124,7 @@
              sodipodi:rx="2.5127544"
              sodipodi:ry="2.5127544"
              d="m 6.2124381,6.8202386 a 2.5127544,2.5127544 0 1 1 -5.0255089,0 2.5127544,2.5127544 0 1 1 5.0255089,0 z"
-             transform="matrix(-0.84106974,0.89974454,0.89974454,0.84106974,55.000274,40.061236)" />
+             transform="matrix(-1.6886733,1.8064787,1.8064787,1.6886733,64.869108,27.806885)" />
           <path
              sodipodi:type="arc"
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
@@ -134,7 +134,7 @@
              sodipodi:rx="2.5127544"
              sodipodi:ry="2.5127544"
              d="m 6.2124381,6.8202386 a 2.5127544,2.5127544 0 1 1 -5.0255089,0 2.5127544,2.5127544 0 1 1 5.0255089,0 z"
-             transform="matrix(-0.84106974,0.89974454,0.89974454,0.84106974,45.277556,40.035982)" />
+             transform="matrix(-1.6886733,1.8064787,1.8064787,1.6886733,45.348141,27.75618)" />
         </g>
       </g>
     </g>

@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="32"
+   height="32"
    id="svg3765"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="34.465547"
-     inkscape:cx="12.497042"
-     inkscape:cy="6.9117275"
+     inkscape:zoom="8.6163868"
+     inkscape:cx="32.108071"
+     inkscape:cy="-5.3258929"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -57,7 +57,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-32)">
+     transform="translate(0,-16)">
     <g
        inkscape:label="Layer 1"
        id="layer1-4"
@@ -71,7 +71,7 @@
            id="layer1-9-3"
            transform="translate(-44.951788,-4.1416259)">
           <g
-             transform="matrix(0.43735448,-0.43735448,0.43735448,0.43735448,17.538314,14.899611)"
+             transform="matrix(1.016139,-1.016139,1.016139,1.016139,-21.032296,-31.602363)"
              style="font-size:24.60485268px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
              id="text2993-4">
             <path
@@ -91,7 +91,7 @@
                inkscape:connector-curvature="0" />
           </g>
           <g
-             transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+             transform="matrix(1.6428751,-1.6428751,1.6428751,1.6428751,-61.780397,-66.219764)"
              style="font-size:17.40639687px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
              id="text3001">
             <path
@@ -102,11 +102,13 @@
             <path
                d="m 4.871338,69.90657 1.0411542,0 0.7224334,1.697719 0.7266831,-1.697719 1.0390293,0 0,3.172333 -0.7734288,0 0,-2.320286 -0.7309327,1.710467 -0.5184522,0 -0.7309327,-1.710467 0,2.320286 -0.7755536,0 0,-3.172333"
                style="font-size:4.35159922px;font-weight:bold;fill:#2d2d2d;-inkscape-font-specification:Sans Bold"
-               id="path3776" />
+               id="path3776"
+               inkscape:connector-curvature="0" />
             <path
                d="m 9.2059387,69.90657 0.8180493,0 0,2.554015 1.436368,0 0,0.618318 -2.2544173,0 0,-3.172333"
                style="font-size:4.35159922px;font-weight:bold;fill:#2d2d2d;-inkscape-font-specification:Sans Bold"
-               id="path3778" />
+               id="path3778"
+               inkscape:connector-curvature="0" />
           </g>
         </g>
       </g>

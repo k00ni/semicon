@@ -7,18 +7,18 @@
 # Add icon path to README.md
 # 
 # Parameter list:
-#   $1 - pngFolder to go through and use 
+#   $1 - imageFolder to go through and use 
 #   $2 - filePath part
 putImageToReadme() {
-    pngFolder=$1
+    imageFolder=$1
     filePath=$2
 
-    whitespacePath="![](../../raw/master/misc/images/whitespace.png)"
+    whitespacePath="![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png)"
 
     # Find and link the PNGs
-    for i in `find $pngFolder -depth -name '*.png'`; do 
+    for i in `find $imageFolder -depth -name '*.svg'`; do 
         filename=$(basename "$i") extension="${filename##*.}" filename="${filename%.*}"
-        echo "$filePath$filename.png) $whitespacePath " >> ../README.md;
+        echo "$filePath$filename.svg) $whitespacePath " >> ../README.md;
     done
 }
 
@@ -31,28 +31,26 @@ cat "$PWD/scripts/readme-title.md" > ../README.md
 #
 # Add icons to README.md grouped by the topic
 #
-size=32
-
 echo "\n\n### Action \n" >> ../README.md
-putImageToReadme "$PWD/../png/action/$size" "![](../../raw/master/png/action/$size/"
+putImageToReadme "$PWD/../svg/action/$size" "![](https://rawgithub.com/k00ni/semicon/master/svg/action/"
 
 echo "\n\n### Data Cube Vocabulary \n" >> ../README.md
-putImageToReadme "$PWD/../png/datacube/$size" "![](../../raw/master/png/datacube/$size/"
+putImageToReadme "$PWD/../svg/datacube/" "![](https://rawgithub.com/k00ni/semicon/master/svg/datacube/"
 
 echo "\n\n### File \n" >> ../README.md
-putImageToReadme "$PWD/../png/file/$size" "![](../../raw/master/png/file/$size/"
+putImageToReadme "$PWD/../svg/file/" "![](https://rawgithub.com/k00ni/semicon/master/svg/file/"
 
 echo "\n\n### Chart \n" >> ../README.md
-putImageToReadme "$PWD/../png/chart/$size" "![](../../raw/master/png/chart/$size/"
+putImageToReadme "$PWD/../svg/chart/" "![](https://rawgithub.com/k00ni/semicon/master/svg/chart/"
 
 echo "\n\n### Structure \n" >> ../README.md
-putImageToReadme "$PWD/../png/structure/$size" "![](../../raw/master/png/structure/$size/"
+putImageToReadme "$PWD/../svg/structure/" "![](https://rawgithub.com/k00ni/semicon/master/svg/structure/"
 
 echo "\n\n### Terms \n" >> ../README.md
-putImageToReadme "$PWD/../png/terms/$size" "![](../../raw/master/png/terms/$size/"
+putImageToReadme "$PWD/../svg/terms/" "![](https://rawgithub.com/k00ni/semicon/master/svg/terms/"
 
 echo "\n\n### Triple Store \n" >> ../README.md
-putImageToReadme "$PWD/../png/triplestore/$size" "![](../../raw/master/png/triplestore/$size/"
+putImageToReadme "$PWD/../svg/triplestore/" "![](https://rawgithub.com/k00ni/semicon/master/svg/triplestore/"
 
 #
 # Add general description about the project itself.

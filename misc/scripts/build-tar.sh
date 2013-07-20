@@ -5,7 +5,7 @@
 # Set folder paths
 pngFolder="$PWD/../png/all/*"
 svgFolder="$PWD/../svg"
-icoFolder="$PWD/../ico/"
+icoFolder="$PWD/../ico"
 archiveFolder="$PWD"
 
 rm -rf semicon
@@ -16,17 +16,14 @@ mkdir semicon/ico
 cp ../LICENSE.md semicon
 cp -R $pngFolder semicon/png/
 cp -R $svgFolder semicon
-cp -R $icoFolder semicon/ico/
+cp -R $icoFolder semicon
 
-# Tar archive
-rm -f semicon.tar.gz
-tar -czf semicon.tar.gz semicon
-mv semicon.tar.gz $PWD/../downloads/
+# 7z archive
+rm -f semicon.7z
+7z a -mx=9 semicon.7z semicon
+mv semicon.7z $PWD/../downloads/
 
-# Zip archive
-rm -f semicon.zip
-zip -r semicon semicon
-mv semicon.zip $PWD/../downloads/
-
-# Clean
+# Clean up and remove png and ico folders
 rm -rf semicon
+rm -rf $PWD/../png
+rm -rf $PWD/../ico

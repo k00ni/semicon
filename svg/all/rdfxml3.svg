@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="32"
+   height="32"
    id="svg3765"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="28"
-     inkscape:cx="4.1160716"
-     inkscape:cy="9.8342633"
+     inkscape:zoom="14"
+     inkscape:cx="-4.7179212"
+     inkscape:cy="11.210307"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,7 +57,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-32)">
+     transform="translate(0,-16)">
     <g
        inkscape:label="Layer 1"
        id="layer1-4"
@@ -71,7 +71,7 @@
            id="layer1-9-3"
            transform="translate(-44.951788,-4.1416259)">
           <g
-             transform="matrix(0.52136076,-0.52136076,0.52136076,0.52136076,13.626497,11.687934)"
+             transform="matrix(1.0679403,-1.0679403,1.0679403,1.0679403,-19.759989,-30.980116)"
              style="font-size:24.60485268px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
              id="text2993-4">
             <path
@@ -91,7 +91,7 @@
                inkscape:connector-curvature="0" />
           </g>
           <g
-             transform="matrix(0.35934124,-0.35934124,0.35934124,0.35934124,60.944523,33.737328)"
+             transform="matrix(0.7360642,-0.7360642,0.7360642,0.7360642,77.164886,14.185225)"
              style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
              id="text3031">
             <path
@@ -101,7 +101,7 @@
                sodipodi:nodetypes="cccccccc" />
           </g>
           <g
-             transform="matrix(-0.36930413,0.36930413,0.36930413,0.36930413,42.25727,52.002614)"
+             transform="matrix(-0.75647189,0.75647189,0.75647189,0.75647189,39.17217,51.813594)"
              style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
              id="text3031-6">
             <path

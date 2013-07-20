@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="32"
+   height="32"
    id="svg3765"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="rdfxml2.svg"
+   sodipodi:docname="rdf_xml2.svg"
    inkscape:export-filename="/home/k00ni/Documents/semicon/owl.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="39.59798"
-     inkscape:cx="4.4139722"
-     inkscape:cy="7.6882868"
+     inkscape:zoom="19.79899"
+     inkscape:cx="24.510708"
+     inkscape:cy="16.950378"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,7 +57,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-32)">
+     transform="translate(0,-16)">
     <g
        inkscape:label="Layer 1"
        id="layer1-4"
@@ -79,23 +79,23 @@
              sodipodi:rx="2.5127544"
              sodipodi:ry="2.5127544"
              d="m 6.2124381,6.8202386 a 2.5127544,2.5127544 0 1 1 -5.0255089,0 2.5127544,2.5127544 0 1 1 5.0255089,0 z"
-             transform="matrix(0.87939698,0,0,0.87939698,44.114454,32.420989)" />
+             transform="matrix(1.7546393,0,0,1.7546393,43.100737,12.690486)" />
           <rect
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
              id="rect4041"
-             width="1.2626907"
-             height="9.4954338"
-             x="46.686092"
-             y="40.262215"
-             ry="0.30033174" />
+             width="2.5194159"
+             height="18.946007"
+             x="48.231865"
+             y="28.335892"
+             ry="0.59924459" />
           <rect
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
              id="rect4041-1"
-             width="1.2626907"
-             height="7.3488598"
-             x="38.216656"
-             y="-56.295166"
-             ry="0.2324376"
+             width="2.5194159"
+             height="14.663001"
+             x="24.254438"
+             y="-67.404617"
+             ry="0.46377707"
              transform="matrix(0,1,-1,0,0,0)" />
           <path
              sodipodi:type="arc"
@@ -106,7 +106,7 @@
              sodipodi:rx="2.5127544"
              sodipodi:ry="2.5127544"
              d="m 6.2124381,6.8202386 a 2.5127544,2.5127544 0 1 1 -5.0255089,0 2.5127544,2.5127544 0 1 1 5.0255089,0 z"
-             transform="matrix(0.87939698,0,0,0.87939698,44.089201,44.037743)" />
+             transform="matrix(1.7546393,0,0,1.7546393,43.05035,35.869112)" />
           <path
              sodipodi:type="arc"
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
@@ -116,7 +116,7 @@
              sodipodi:rx="2.5127544"
              sodipodi:ry="2.5127544"
              d="m 6.2124381,6.8202386 a 2.5127544,2.5127544 0 1 1 -5.0255089,0 2.5127544,2.5127544 0 1 1 5.0255089,0 z"
-             transform="matrix(0.87939698,0,0,0.87939698,52.145167,32.471496)" />
+             transform="matrix(1.7546393,0,0,1.7546393,59.124223,12.690246)" />
           <path
              sodipodi:type="arc"
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
@@ -126,7 +126,7 @@
              sodipodi:rx="2.5127544"
              sodipodi:ry="2.5127544"
              d="m 6.2124381,6.8202386 a 2.5127544,2.5127544 0 1 1 -5.0255089,0 2.5127544,2.5127544 0 1 1 5.0255089,0 z"
-             transform="matrix(0.87939698,0,0,0.87939698,49.114711,38.633426)" />
+             transform="matrix(1.7546393,0,0,1.7546393,53.077628,25.08601)" />
           <path
              sodipodi:type="arc"
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
@@ -136,24 +136,24 @@
              sodipodi:rx="2.5127544"
              sodipodi:ry="2.5127544"
              d="m 6.2124381,6.8202386 a 2.5127544,2.5127544 0 1 1 -5.0255089,0 2.5127544,2.5127544 0 1 1 5.0255089,0 z"
-             transform="matrix(0.87939698,0,0,0.87939698,54.089711,44.037743)" />
+             transform="matrix(1.7546393,0,0,1.7546393,63.004124,35.869112)" />
           <rect
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
              id="rect4041-1-9"
-             width="1.2626907"
-             height="7.3488598"
-             x="66.885727"
-             y="5.9057732"
-             ry="0.2324376"
+             width="2.5194159"
+             height="14.663001"
+             x="68.554649"
+             y="-10.788344"
+             ry="0.46377707"
              transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)" />
           <rect
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
              id="rect4041-1-9-1"
-             width="1.2626907"
-             height="7.3488598"
-             x="-5.9415712"
-             y="-75.388313"
-             ry="0.2324376"
+             width="2.5194159"
+             height="14.663001"
+             x="-16.860374"
+             y="-81.88903"
+             ry="0.46377707"
              transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)" />
         </g>
       </g>

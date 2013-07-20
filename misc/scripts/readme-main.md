@@ -1,7 +1,8 @@
 
 ## Download and Enjoy!
 
-You can choose between the SVG, PNG or ICO version of the semicons. Simply download the icon set as [zip](../../raw/master/downloads/semicon.zip) or [tar gz](../../raw/master/downloads/semicon.tar.gz), extract it into your images folder and enjoy!
+You can choose between the SVG, PNG or ICO version of the semicons. Simply download the icon set [here](../../raw/master/downloads/semicon.7z) 
+(compressed with [7zip](http://www.7-zip.org/)), extract it into your images folder and enjoy!
 
 ## License
 

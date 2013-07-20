@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="32"
+   height="32"
    id="svg3765"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="28"
-     inkscape:cx="-0.88982984"
-     inkscape:cy="9.5018135"
+     inkscape:zoom="14"
+     inkscape:cx="1.1283516"
+     inkscape:cy="3.8478369"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -57,7 +57,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-32)">
+     transform="translate(0,-16)">
     <g
        inkscape:label="Layer 1"
        id="layer1-4"
@@ -71,7 +71,7 @@
            id="layer1-9-3"
            transform="translate(-44.951788,-4.1416259)">
           <g
-             transform="matrix(1.0862455,0,0,0.92060219,-0.85714286,0)"
+             transform="matrix(2.1657965,0,0,1.8355307,-46.610909,-51.947225)"
              style="font-size:13.46774006px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
              id="text3001">
             <path
@@ -83,18 +83,18 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-size:52.22917557000000244px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-             x="53.488194"
-             y="46.162495"
+             style="font-size:104.13646698px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+             x="61.744835"
+             y="40.093266"
              id="text3015"
              sodipodi:linespacing="125%"><tspan
                sodipodi:role="line"
                id="tspan3017"
-               x="53.488194"
-               y="46.162495"
-               style="font-size:13.05729389000000040px;font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#2d2d2d;fill-opacity:1">}</tspan></text>
+               x="61.744835"
+               y="40.093266"
+               style="font-size:26.03411674px;font-weight:bold;fill:#2d2d2d;fill-opacity:1;-inkscape-font-specification:Sans Bold">}</tspan></text>
           <g
-             transform="matrix(1.0862455,0,0,0.92060219,0.26057663,0.00540378)"
+             transform="matrix(2.1657965,0,0,1.8355307,-44.382358,-51.93645)"
              style="font-size:13.46774006px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
              id="text3001-7">
             <path

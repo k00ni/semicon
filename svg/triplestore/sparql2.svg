@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="32"
+   height="32"
    id="svg3765"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="39.59798"
-     inkscape:cx="8.7679004"
-     inkscape:cy="5.2342452"
+     inkscape:zoom="14"
+     inkscape:cx="16.723883"
+     inkscape:cy="11.062563"
      inkscape:current-layer="layer1-9"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -57,7 +57,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-32)">
+     transform="translate(0,-16)">
     <g
        inkscape:label="Layer 1"
        id="layer1-4"
@@ -69,7 +69,7 @@
         <g
            id="text3001"
            style="font-size:13.46774006px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-           transform="matrix(1.0862455,0,0,0.92060219,-45.849143,-4.1843627)">
+           transform="matrix(2.1694041,0,0,1.8385882,-91.755805,-56.343022)">
           <path
              sodipodi:nodetypes="ccsscccccccccssccsccsccscccssccc"
              inkscape:connector-curvature="0"
@@ -80,19 +80,19 @@
         <text
            sodipodi:linespacing="125%"
            id="text3015"
-           y="45.993484"
-           x="8.5719576"
-           style="font-size:52.22917557px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+           y="43.870075"
+           x="16.93174"
+           style="font-size:104.30992126px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
            xml:space="preserve"><tspan
-             style="font-size:13.05729389px;font-weight:bold;fill:#2d2d2d;fill-opacity:1;-inkscape-font-specification:Sans Bold"
-             y="45.993484"
-             x="8.5719576"
+             style="font-size:26.07748032px;font-weight:bold;fill:#2d2d2d;fill-opacity:1;-inkscape-font-specification:Sans Bold"
+             y="43.870075"
+             x="16.93174"
              id="tspan3017"
              sodipodi:role="line">}</tspan></text>
         <g
            id="text3001-7"
            style="font-size:13.46774006px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
-           transform="matrix(1.0862455,0,0,0.92060219,-44.731423,-4.1789587)">
+           transform="matrix(2.1694041,0,0,1.8385882,-89.523542,-56.332229)">
           <path
              sodipodi:nodetypes="ccsscccccccccssccsccsccscccssccc"
              inkscape:connector-curvature="0"
