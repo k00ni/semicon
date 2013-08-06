@@ -54,8 +54,10 @@ Semicon is a collection of icons (called semicons) for the [Semantic Web](http:/
 ![](https://rawgithub.com/k00ni/semicon/master/svg/datacube/equalDimensionElements4.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/datacube/equalDimensionElements5.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/datacube/unequalDimensionElements5.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
+![](https://rawgithub.com/k00ni/semicon/master/svg/datacube/dataStructureDefinition.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/datacube/unequalDimensionElements.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/datacube/unequalDimensionElements2.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
+![](https://rawgithub.com/k00ni/semicon/master/svg/datacube/dataset3.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 
 
 ### File 
