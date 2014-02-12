@@ -107,6 +107,9 @@ clearAndConvert "datacube"
 # File Icons
 clearAndConvert "file"
 
+# FOAF Icons
+clearAndConvert "foaf"
+
 # Chart Icons
 clearAndConvert "chart"
 

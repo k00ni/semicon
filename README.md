@@ -80,6 +80,13 @@ Semicon is a collection of icons (called semicons) for the [Semantic Web](http:/
 ![](https://rawgithub.com/k00ni/semicon/master/svg/file/rdf_xml4.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 
 
+### FOAF 
+
+![](https://rawgithub.com/k00ni/semicon/master/svg/foaf/doctor.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
+![](https://rawgithub.com/k00ni/semicon/master/svg/foaf/businessmen.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
+![](https://rawgithub.com/k00ni/semicon/master/svg/foaf/person.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
+
+
 ### Chart 
 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/chart/area.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 

@@ -40,6 +40,9 @@ putImageToReadme "$PWD/../svg/datacube/" "![](https://rawgithub.com/k00ni/semico
 echo "\n\n### File \n" >> ../README.md
 putImageToReadme "$PWD/../svg/file/" "![](https://rawgithub.com/k00ni/semicon/master/svg/file/"
 
+echo "\n\n### FOAF \n" >> ../README.md
+putImageToReadme "$PWD/../svg/foaf/" "![](https://rawgithub.com/k00ni/semicon/master/svg/foaf/"
+
 echo "\n\n### Chart \n" >> ../README.md
 putImageToReadme "$PWD/../svg/chart/" "![](https://rawgithub.com/k00ni/semicon/master/svg/chart/"
 

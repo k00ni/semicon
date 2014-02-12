@@ -111,6 +111,9 @@ clearAndConvert "datacube" "$size"
 # File Icons
 clearAndConvert "file" "$size"
 
+# FOAF Icons
+clearAndConvert "foaf" "$size"
+
 # Chart Icons
 clearAndConvert "chart" "$size"
 
