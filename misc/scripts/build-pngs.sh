@@ -7,7 +7,6 @@
 
 # What size PNGs are we generating?
 size=$1
-size=${size:=16}
 echo "Generating PNGs of ${size}x${size} pixels"
 
 # Figure out what conversion tool to use
