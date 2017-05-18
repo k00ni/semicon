@@ -3,8 +3,8 @@
 # 
 
 # Ensure ICO directory exists
-if [ ! -e "$PWD/../ico" ]; then
-  mkdir "$PWD/../ico"
+if [ ! -e "$PWD/ico" ]; then
+  mkdir "$PWD/ico"
 fi
 
 echo "Converting SVGs to ICOs"
@@ -86,12 +86,9 @@ svgToIco() {
 # Removes current folder and related size folder, create it new and fill it
 clearAndConvert() {
     iconGroup=$1
-    if [ -e "$PWD/../ico/$iconGroup" ]; then
-      echo "Remove folder $PWD/../ico/$iconGroup"
-      rm -rf "$PWD/../ico/$iconGroup/"
-    fi
-    mkdir "$PWD/../ico/$iconGroup/"
-    svgToIco "$PWD/../svg/$iconGroup" "$PWD/../png/$iconGroup" "$PWD/../ico/$iconGroup"
+    rm -rf "$PWD/ico/$iconGroup"
+    mkdir "$PWD/ico/$iconGroup/"
+    svgToIco "$PWD/svg/$iconGroup" "$PWD/png/$iconGroup" "$PWD/ico/$iconGroup"
 }
 
 # 

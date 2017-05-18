@@ -8,22 +8,19 @@ default:
 	@echo " make prepare .................... > to run all operations above to prepare a commit"
 	
 install-build-svg2png-tool:
-	sh scripts/install-tools.sh
+	sh misc/scripts/install-tools.sh
 	
 build-pngs:
-	sh scripts/build-pngs.sh 32
-	sh scripts/build-pngs.sh 256
+	sh misc/scripts/build-pngs.sh 32
+	sh misc/scripts/build-pngs.sh 256
 
 build-icos:
-	sh scripts/build-icos.sh
-	
-build-tar:
-	sh scripts/build-tar.sh
+	sh misc/scripts/build-icos.sh
 	
 create-all-folder:
-	sh scripts/create-all-folder.sh
+	sh misc/scripts/create-all-folder.sh
 	
 update-readme:
-	sh scripts/update-README.sh
+	sh misc/scripts/update-README.sh
 	
 prepare: build-pngs build-icos create-all-folder update-readme

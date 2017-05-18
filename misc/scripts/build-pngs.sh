@@ -77,24 +77,24 @@ svgToPng() {
 clearAndConvert() {
     iconGroup=$1
     sizeDir=$2
-    echo "Remove folder $PWD/../png/$iconGroup/$sizeDir"
+    echo "Remove folder $PWD/png/$iconGroup/$sizeDir"
      
     # if related directory does not exists    
-    if [ ! -e "$PWD/../png" ]; then
-        mkdir "$PWD/../png"
+    if [ ! -e "$PWD/png" ]; then
+        mkdir "$PWD/png"
     fi 
     
-    if [ ! -e "$PWD/../png/$iconGroup" ]; then
-        mkdir "$PWD/../png/$iconGroup"
+    if [ ! -e "$PWD/png/$iconGroup" ]; then
+        mkdir "$PWD/png/$iconGroup"
     fi 
     
-    if [ ! -e "$PWD/../png/$iconGroup/$sizeDir" ]; then
-        mkdir "$PWD/../png/$iconGroup/$sizeDir"
+    if [ ! -e "$PWD/png/$iconGroup/$sizeDir" ]; then
+        mkdir "$PWD/png/$iconGroup/$sizeDir"
     fi
     
-    rm -rf "$PWD/../png/$iconGroup/$sizeDir"
-    mkdir "$PWD/../png/$iconGroup/$sizeDir"
-    svgToPng "$PWD/../svg/$iconGroup" "$PWD/../png/$iconGroup/$sizeDir"
+    rm -rf "$PWD/png/$iconGroup/$sizeDir"
+    mkdir "$PWD/png/$iconGroup/$sizeDir"
+    svgToPng "$PWD/svg/$iconGroup" "$PWD/png/$iconGroup/$sizeDir"
 }
 
 # 

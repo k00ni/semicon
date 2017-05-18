@@ -2,6 +2,18 @@
 
 Semicon is a collection of icons (called semicons) for the [Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web) to cover a wide range of topics.
 
+**Contributions welcome!**
+
+## Download and Enjoy!
+
+You can choose between the SVG, PNG or ICO version of the semicons. Simply download the icon set [here](https://github.com/k00ni/semicon/archive/master.zip), extract it into your images folder and enjoy!
+
+## License
+
+Semicon is licensed under the terms of [Creative Commons "CC BY-SA" 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US), which includes usage for commercial projects too.
+
+## Available icons
+
 
 ### Action 
 
@@ -119,6 +131,7 @@ Semicon is a collection of icons (called semicons) for the [Semantic Web](http:/
 ![](https://rawgithub.com/k00ni/semicon/master/svg/structure/triple.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/structure/crooked_construction.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/structure/graph.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
+![](https://rawgithub.com/k00ni/semicon/master/svg/structure/graph_lod.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/structure/bipartite_graph2.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/structure/collection2.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/structure/bipartite_graph.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
@@ -160,12 +173,3 @@ Semicon is a collection of icons (called semicons) for the [Semantic Web](http:/
 ![](https://rawgithub.com/k00ni/semicon/master/svg/triplestore/sparql2.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/triplestore/sparql4.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
 ![](https://rawgithub.com/k00ni/semicon/master/svg/triplestore/sparql6.svg) ![](https://rawgithub.com/k00ni/semicon/master/misc/images/whitespace.png) 
-
-## Download and Enjoy!
-
-You can choose between the SVG, PNG or ICO version of the semicons. Simply download the icon set [here](../../raw/master/downloads/semicon.7z) 
-(compressed with [7zip](http://www.7-zip.org/)), extract it into your images folder and enjoy!
-
-## License
-
-Semicon is licensed under the terms of [Creative Commons "CC BY-SA" 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US), which includes usage for commercial projects too.
