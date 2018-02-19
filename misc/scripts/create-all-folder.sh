@@ -47,14 +47,14 @@ mkdir "$allFolder"
 rm -Rf $allFolder
 
 # Copy SVGs
-copyToFolder "$PWD/../svg/action" "$allFolder" "svg"
-copyToFolder "$PWD/../svg/datacube" "$allFolder" "svg"
-copyToFolder "$PWD/../svg/file" "$allFolder" "svg"
-copyToFolder "$PWD/../svg/foaf" "$allFolder" "svg"
-copyToFolder "$PWD/../svg/chart" "$allFolder" "svg"
-copyToFolder "$PWD/../svg/structure" "$allFolder" "svg"
-copyToFolder "$PWD/../svg/terms" "$allFolder" "svg"
-copyToFolder "$PWD/../svg/triplestore" "$allFolder" "svg"
+copyToFolder "$PWD/svg/action" "$allFolder" "svg"
+copyToFolder "$PWD/svg/datacube" "$allFolder" "svg"
+copyToFolder "$PWD/svg/file" "$allFolder" "svg"
+copyToFolder "$PWD/svg/foaf" "$allFolder" "svg"
+copyToFolder "$PWD/svg/chart" "$allFolder" "svg"
+copyToFolder "$PWD/svg/structure" "$allFolder" "svg"
+copyToFolder "$PWD/svg/terms" "$allFolder" "svg"
+copyToFolder "$PWD/svg/triplestore" "$allFolder" "svg"
 
 # Set folder paths for PNGs
 allFolder="$PWD/../png/all"
@@ -80,12 +80,12 @@ allFolder="$PWD/../ico/all"
 rm -rf $allFolder
 
 # Copy ICOs
-copyToFolder "$PWD/../ico/action" "$allFolder" "ico"
-copyToFolder "$PWD/../ico/datacube" "$allFolder" "ico"
-copyToFolder "$PWD/../ico/file" "$allFolder" "ico"
-copyToFolder "$PWD/../ico/foaf" "$allFolder" "ico"
-copyToFolder "$PWD/../ico/chart" "$allFolder" "ico"
-copyToFolder "$PWD/../ico/structure" "$allFolder" "ico"
-copyToFolder "$PWD/../ico/terms" "$allFolder" "ico"
-copyToFolder "$PWD/../ico/triplestore" "$allFolder" "ico"
+copyToFolder "$PWD/ico/action" "$allFolder" "ico"
+copyToFolder "$PWD/ico/datacube" "$allFolder" "ico"
+copyToFolder "$PWD/ico/file" "$allFolder" "ico"
+copyToFolder "$PWD/ico/foaf" "$allFolder" "ico"
+copyToFolder "$PWD/ico/chart" "$allFolder" "ico"
+copyToFolder "$PWD/ico/structure" "$allFolder" "ico"
+copyToFolder "$PWD/ico/terms" "$allFolder" "ico"
+copyToFolder "$PWD/ico/triplestore" "$allFolder" "ico"
 
