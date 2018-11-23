@@ -13,7 +13,7 @@
    height="32"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="part.svg">
   <defs
      id="defs2987" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.696216"
-     inkscape:cx="-3.8382497"
-     inkscape:cy="10.564863"
+     inkscape:zoom="20.355211"
+     inkscape:cx="19.28752"
+     inkscape:cy="19.946396"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -53,30 +53,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      transform="translate(0,16)">
-    <rect
-       style="fill:#2d2d2d;fill-opacity:1;stroke:#2d2d2d;stroke-width:1.05409443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect2987"
-       width="10.226334"
-       height="30.803375"
-       x="10.208495"
-       y="-15.392803"
-       rx="0"
-       ry="0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect3759"
-       width="12.0224"
-       height="12.0224"
-       x="8.478467"
-       y="9.4178915"
-       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
-    <rect
+    <path
+       style="fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:1.05400002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10.208984 0 L 10.208984 32 L 20.435547 32 L 20.435547 24.445312 L 12.654297 16.664062 L 20.435547 8.8847656 L 20.435547 0 L 10.208984 0 z "
+       transform="translate(0,-16)"
+       id="rect2987" />
+    <path
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
        style="fill:#2d2d2d;fill-opacity:1;stroke:none"
-       id="rect3759-1"
-       width="9.7052431"
-       height="9.7052431"
-       x="12.324947"
-       y="12.986317"
-       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+       d="m 12.324947,12.986317 9.705243,0 0,9.705243 -9.705243,0 z"
+       id="rect3759-1" />
   </g>
 </svg>

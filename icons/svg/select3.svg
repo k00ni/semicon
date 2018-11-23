@@ -13,7 +13,7 @@
    height="32"
    id="svg3765"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="select3.svg"
    inkscape:export-filename="/home/k00ni/Documents/semicon/owl.png"
    inkscape:export-xdpi="90"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="19.79899"
-     inkscape:cx="14.039279"
-     inkscape:cy="12.609418"
+     inkscape:zoom="18.155519"
+     inkscape:cx="6.3704871"
+     inkscape:cy="11.383194"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -71,35 +71,10 @@
            id="layer1-9-3"
            transform="translate(-44.951788,-4.1416259)">
           <path
-             transform="matrix(1.102787,0.3225798,-0.29790232,1.1432378,58.202771,0.28491049)"
-             sodipodi:type="arc"
-             style="fill:#2d2d2d;fill-opacity:1;stroke:#2d2d2d;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             id="path3015-0"
-             sodipodi:cx="10.354064"
-             sodipodi:cy="28.352533"
-             sodipodi:rx="3.7880721"
-             sodipodi:ry="3.7880721"
-             d="m 14.142136,28.352533 a 3.7880721,3.7880721 0 1 1 -7.5761441,0 3.7880721,3.7880721 0 1 1 7.5761441,0 z" />
-          <path
-             transform="matrix(3.8106828,1.0719152,-1.0294021,3.7989173,50.882329,-82.602741)"
-             sodipodi:type="arc"
-             style="fill:none;stroke:#2d2d2d;stroke-width:0.52873749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             id="path3015-0-1-4"
-             sodipodi:cx="10.354064"
-             sodipodi:cy="28.352533"
-             sodipodi:rx="3.7880721"
-             sodipodi:ry="3.7880721"
-             d="m 14.142136,28.352533 a 3.7880721,3.7880721 0 1 1 -7.5761441,0 3.7880721,3.7880721 0 1 1 7.5761441,0 z" />
-          <path
-             transform="matrix(2.5596372,0.72000589,-0.69144982,2.5517344,54.384502,-43.581517)"
-             sodipodi:type="arc"
-             style="fill:none;stroke:#2d2d2d;stroke-width:0.78716266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             id="path3015-0-1-4-9"
-             sodipodi:cx="10.354064"
-             sodipodi:cy="28.352533"
-             sodipodi:rx="3.7880721"
-             sodipodi:ry="3.7880721"
-             d="m 14.142136,28.352533 a 3.7880721,3.7880721 0 1 1 -7.5761441,0 3.7880721,3.7880721 0 1 1 7.5761441,0 z" />
+             style="fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 15.425781 -0.017578125 C 8.6143121 0.16527302 2.4571948 4.7245457 0.58789062 11.623047 C -1.7127914 20.113513 3.342612 28.967582 11.859375 31.363281 C 20.376133 33.758978 29.173926 28.802966 31.474609 20.3125 C 33.77529 11.822037 28.71793 2.9757751 20.201172 0.58007812 C 18.604279 0.13088456 16.997659 -0.059774543 15.425781 -0.017578125 z M 15.498047 2.0585938 C 16.865974 2.0231576 18.26548 2.1902691 19.658203 2.5820312 C 27.086059 4.6714283 31.46356 12.339223 29.457031 19.744141 C 27.450501 27.149063 19.830199 31.450726 12.402344 29.361328 C 4.9744878 27.271931 0.59698562 19.596328 2.6035156 12.191406 C 4.2338204 6.1749104 9.5703646 2.2121503 15.498047 2.0585938 z M 15.744141 4.9023438 C 11.023742 5.0313077 6.7538291 8.1961019 5.4589844 12.974609 C 3.8653304 18.855852 7.3700743 25.002638 13.269531 26.662109 C 19.168985 28.32158 25.271579 24.877337 26.865234 18.996094 C 28.458888 13.114854 24.952189 6.9758763 19.052734 5.3164062 C 17.946586 5.0052554 16.833463 4.8725828 15.744141 4.9023438 z M 15.814453 6.9882812 C 16.699798 6.9658965 17.605834 7.0763586 18.507812 7.3300781 C 23.318361 8.6832471 26.149111 13.63399 24.849609 18.429688 C 23.550107 23.225386 18.625002 26.001607 13.814453 24.648438 C 9.0039021 23.295266 6.1731533 18.338668 7.4726562 13.542969 C 8.5285016 9.6464649 11.977959 7.0852817 15.814453 6.9882812 z M 16.023438 11.306641 A 4.5031459 4.3236518 82.028736 0 0 11.876953 14.583984 A 4.5031459 4.3236518 82.028736 0 0 14.925781 20.136719 A 4.5031459 4.3236518 82.028736 0 0 20.232422 17.027344 A 4.5031459 4.3236518 82.028736 0 0 17.183594 11.474609 A 4.5031459 4.3236518 82.028736 0 0 16.023438 11.306641 z "
+             transform="translate(45.120356,20.232522)"
+             id="path3015-0" />
         </g>
       </g>
     </g>

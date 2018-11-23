@@ -13,7 +13,7 @@
    height="32px"
    id="svg3004"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="pie.svg"
    inkscape:export-filename="/home/k00ni/Documents/ow_cubeviz/extensions/cubeviz/public/images/pie.png"
    inkscape:export-xdpi="90"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.197802"
-     inkscape:cx="22.25686"
-     inkscape:cy="12.706916"
+     inkscape:zoom="20.536594"
+     inkscape:cx="16.316078"
+     inkscape:cy="19.998176"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -59,7 +59,7 @@
      inkscape:groupmode="layer">
     <path
        style="fill:#2d2d2d;fill-opacity:1;stroke:none"
-       d="m 29.101296,15.107056 c 6.724817,-0.05871 1.254846,16.390536 -12.4498,16.891776 C 7.4618419,32.334938 -0.20724335,24.703125 5.3034154e-4,15.708543 0.30793275,2.4010052 17.494112,-4.7228045 17.573703,3.8291643 17.693579,16.70955 14.433235,15.235102 29.101296,15.107056 z"
+       d="M 29.127341,15.045053 C 35.857346,14.986161 30.383155,31.486475 16.667938,31.989271 7.4711952,32.32642 -0.20380563,24.670914 0.00412833,15.648407 0.31176786,2.2995552 17.511204,-4.8463709 17.590856,3.7321481 17.710825,16.652522 14.447966,15.173497 29.127341,15.045053 Z"
        id="path4346"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss" />

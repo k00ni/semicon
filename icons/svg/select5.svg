@@ -13,7 +13,7 @@
    height="32"
    id="svg3765"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="select5.svg"
    inkscape:export-filename="/home/k00ni/Documents/semicon/owl.png"
    inkscape:export-xdpi="90"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="19.79899"
-     inkscape:cx="14.039279"
-     inkscape:cy="12.609418"
+     inkscape:zoom="12.837891"
+     inkscape:cx="3.3283575"
+     inkscape:cy="15.671042"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -71,25 +71,10 @@
            id="layer1-9-3"
            transform="translate(-44.951788,-4.1416259)">
           <path
-             transform="matrix(1.102787,0.3225798,-0.29790232,1.1432378,58.202771,0.28491049)"
-             sodipodi:type="arc"
-             style="fill:#2d2d2d;fill-opacity:1;stroke:#2d2d2d;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             id="path3015-0"
-             sodipodi:cx="10.354064"
-             sodipodi:cy="28.352533"
-             sodipodi:rx="3.7880721"
-             sodipodi:ry="3.7880721"
-             d="m 14.142136,28.352533 c 0,2.092095 -1.695978,3.788072 -3.788072,3.788072 -2.0920945,0 -3.7880721,-1.695977 -3.7880721,-3.788072 0,-2.092094 1.6959776,-3.788072 3.7880721,-3.788072 2.092094,0 3.788072,1.695978 3.788072,3.788072 z" />
-          <path
-             transform="matrix(3.8106828,1.0719152,-1.0294021,3.7989173,50.882329,-82.602741)"
-             sodipodi:type="arc"
-             style="fill:none;stroke:#2d2d2d;stroke-width:0.52873749;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             id="path3015-0-1-4"
-             sodipodi:cx="10.354064"
-             sodipodi:cy="28.352533"
-             sodipodi:rx="3.7880721"
-             sodipodi:ry="3.7880721"
-             d="m 14.142136,28.352533 c 0,2.092095 -1.695978,3.788072 -3.788072,3.788072 -2.0920945,0 -3.7880721,-1.695977 -3.7880721,-3.788072 0,-2.092094 1.6959776,-3.788072 3.7880721,-3.788072 2.092094,0 3.788072,1.695978 3.788072,3.788072 z" />
+             style="fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 15.400391 0.005859375 C 8.5890767 0.19066475 2.4275535 4.7559791 0.55664062 11.658203 C -1.7460234 20.153248 3.313862 29.002258 11.828125 31.396484 C 20.342387 33.790711 29.142651 28.838795 31.445312 20.34375 C 33.747975 11.848705 28.68809 2.9977426 20.173828 0.60351562 C 18.577404 0.15459806 16.972232 -0.03678802 15.400391 0.005859375 z M 15.464844 2.09375 C 16.833851 2.0582744 18.234875 2.2251831 19.628906 2.6171875 C 27.06374 4.7078775 31.441307 12.379592 29.435547 19.779297 C 27.429787 27.179002 19.807882 31.473502 12.373047 29.382812 C 4.9382129 27.292122 0.55869313 19.622361 2.5644531 12.222656 C 4.1941331 6.2103951 9.5324779 2.2474774 15.464844 2.09375 z M 16.244141 10.244141 A 5.8281496 5.5975686 81.966067 0 0 10.875 14.486328 A 5.8281496 5.5975686 81.966067 0 0 14.822266 21.671875 A 5.8281496 5.5975686 81.966067 0 0 21.691406 17.648438 A 5.8281496 5.5975686 81.966067 0 0 17.744141 10.462891 A 5.8281496 5.5975686 81.966067 0 0 16.244141 10.244141 z "
+             transform="translate(45.120356,20.232522)"
+             id="path3015-0" />
         </g>
       </g>
     </g>

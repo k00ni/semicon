@@ -13,7 +13,7 @@
    height="32"
    id="svg3765"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="interchange.svg"
    inkscape:export-filename="/home/k00ni/Documents/semicon/owl.png"
    inkscape:export-xdpi="90"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14"
-     inkscape:cx="36.433059"
-     inkscape:cy="20.864537"
+     inkscape:zoom="25.675781"
+     inkscape:cx="17.054932"
+     inkscape:cy="15.708856"
      inkscape:current-layer="layer1-9-3"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -70,26 +70,22 @@
            inkscape:label="Layer 1"
            id="layer1-9-3"
            transform="translate(-44.951788,-4.1416259)">
-          <path
-             transform="matrix(-0.49385548,1.0949823,-1.14044,-0.47417056,88.336032,27.425272)"
-             sodipodi:type="arc"
-             style="fill:#2d2d2d;fill-opacity:1;stroke:#2d2d2d;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+          <ellipse
+             transform="matrix(-0.41113538,0.9115743,-0.92336778,-0.38391658,0,0)"
+             style="fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path3015-0-8"
-             sodipodi:cx="10.354064"
-             sodipodi:cy="28.352533"
-             sodipodi:rx="3.7880721"
-             sodipodi:ry="3.7880721"
-             d="m 14.142136,28.352533 a 3.7880721,3.7880721 0 1 1 -7.5761441,0 3.7880721,3.7880721 0 1 1 7.5761441,0 z" />
-          <path
-             transform="matrix(-0.28238432,0.62610592,-0.65209843,-0.27112855,92.499479,50.59866)"
-             sodipodi:type="arc"
-             style="fill:#2d2d2d;fill-opacity:1;stroke:#2d2d2d;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             cx="4.0469666"
+             cy="-57.100544"
+             rx="5.4323859"
+             ry="5.5856447" />
+          <ellipse
+             transform="matrix(-0.41113537,0.9115743,-0.9233678,-0.38391654,0,0)"
+             style="fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path3015-0-2-2-4"
-             sodipodi:cx="10.354064"
-             sodipodi:cy="28.352533"
-             sodipodi:rx="3.7880721"
-             sodipodi:ry="3.7880721"
-             d="m 14.142136,28.352533 a 3.7880721,3.7880721 0 1 1 -7.5761441,0 3.7880721,3.7880721 0 1 1 7.5761441,0 z" />
+             cx="18.526527"
+             cy="-85.277901"
+             rx="2.6018004"
+             ry="2.6752026" />
           <g
              id="g3890"
              transform="matrix(-0.37142648,1.3956295,1.4178891,0.36037355,12.648742,-40.0309)">
@@ -123,11 +119,11 @@
              style="fill:#2d2d2d;fill-opacity:1;stroke:none"
              id="rect3777-8"
              width="2.4635994"
-             height="14.288876"
+             height="14.016245"
              x="-72.306252"
              y="-40.513653"
              rx="22.538677"
-             ry="0.5377534"
+             ry="0.52749312"
              transform="scale(-1,-1)" />
         </g>
       </g>
