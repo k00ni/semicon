@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="20.355211"
-     inkscape:cx="25.166733"
-     inkscape:cy="19.958855"
+     inkscape:zoom="18.665569"
+     inkscape:cx="25.988661"
+     inkscape:cy="15.293593"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -81,7 +81,7 @@
        x="-11.958229"
        y="-15.463319"
        rx="34.404114"
-       ry="2.565347"
+       ry="0"
        transform="matrix(-0.63080649,0.77594018,-0.69000525,-0.72380436,0,0)" />
     <rect
        style="fill:#2d2d2d;fill-opacity:1;stroke:none"
@@ -91,7 +91,7 @@
        x="-27.87097"
        y="0.34721324"
        rx="36.241291"
-       ry="2.0220997"
+       ry="0"
        transform="matrix(-0.99380409,-0.11114598,2.6879706e-4,-0.99999996,0,0)" />
     <path
        sodipodi:type="arc"
@@ -111,19 +111,19 @@
        x="10.146198"
        y="-15.164381"
        rx="40.215317"
-       ry="1.4109627"
+       ry="0"
        transform="matrix(0.15453635,0.9879871,-0.98918395,0.14668031,0,0)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.09244156px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="14.526933"
-       y="17.744152"
+       style="font-style:normal;font-weight:normal;font-size:16.09244156px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.146152"
+       y="16.945929"
        id="text4145"
        sodipodi:linespacing="125%"
-       transform="scale(1.2416072,0.80540769)"><tspan
+       transform="scale(1.2416072,0.8054077)"><tspan
          sodipodi:role="line"
          id="tspan4147"
-         x="14.526933"
-         y="17.744152">[]</tspan></text>
+         x="13.146152"
+         y="16.945929">[]</tspan></text>
   </g>
 </svg>
