@@ -1,0 +1,20 @@
+{
+    "name": "semicon",
+    "version": "1.0.0",
+    "description": "Semicon is a collection of icons (called semicons) for the Semantic Web and Linked Open Data world.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/k00ni/semicon.git"
+    },
+    "keywords": ["file", "foaf", "icons", "iconset", "linked open data", "rdf", "semantic-web", "store", "structures", "triple"],
+    "author": {
+        "name": "Konrad Abicht",
+        "email": "k.abicht@gmail.com",
+        "url": "http://github.com/k00ni"
+    },
+    "license": "CC-BY-4.0",
+    "bugs": {
+        "url": "https://github.com/k00ni/semicon/issues"
+    },
+    "homepage": "https://github.com/k00ni/semicon#readme"
+}
