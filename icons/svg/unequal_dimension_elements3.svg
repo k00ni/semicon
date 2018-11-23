@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32px"
+   height="32px"
+   id="svg3004"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="unequal_dimension_elements3.svg"
+   inkscape:export-filename="/home/k00ni/Documents/ow_cubeviz/extensions/cubeviz/public/images/attributeAndMeasure.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3006" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="20.536593"
+     inkscape:cx="11.540674"
+     inkscape:cy="15.588518"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3009">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-size:28.82632637px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;font-family:Sans"
+       x="5.9813523"
+       y="28.540297"
+       id="text3068-7"
+       sodipodi:linespacing="125%"
+       transform="scale(0.87855478,1.1382329)"><tspan
+         sodipodi:role="line"
+         id="tspan3070-9"
+         x="5.9813523"
+         y="28.540297"
+         style="font-size:14.41316319px;font-weight:bold;fill:#2d2d2d;fill-opacity:1;-inkscape-font-specification:Sans Bold">&lt;&gt;</tspan></text>
+    <path
+       style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+       d="M 25.945312 -0.068359375 L 19.945312 5.9316406 L 22.412109 8.3984375 L 19.150391 11.685547 C 18.235011 10.945092 17.085763 10.482422 15.820312 10.482422 C 14.553336 10.482422 13.402623 10.945436 12.486328 11.6875 L 9.4023438 8.6269531 L 12 6.0292969 L 6 0.029296875 L 0 6.0292969 L 6 12.029297 L 8.4101562 9.6191406 L 11.513672 12.697266 C 10.875192 13.576258 10.488281 14.648482 10.488281 15.814453 C 10.488281 18.75243 12.882336 21.146484 15.820312 21.146484 C 18.75829 21.146484 21.150391 18.75243 21.150391 15.814453 C 21.150391 14.647958 20.761679 13.576472 20.123047 12.697266 L 23.402344 9.3886719 L 25.945312 11.931641 L 31.945312 5.9316406 L 25.945312 -0.068359375 z M 15.820312 11.597656 C 16.784934 11.597656 17.662001 11.931379 18.371094 12.472656 L 16.974609 13.880859 A 2.2596614 2.2596614 0 0 0 15.798828 13.548828 A 2.2596614 2.2596614 0 0 0 14.671875 13.853516 L 13.273438 12.46875 C 13.982191 11.929495 14.85768 11.597656 15.820312 11.597656 z M 12.304688 13.482422 L 13.734375 14.898438 A 2.2596614 2.2596614 0 0 0 13.539062 15.808594 A 2.2596614 2.2596614 0 0 0 15.798828 18.068359 A 2.2596614 2.2596614 0 0 0 18.058594 15.808594 A 2.2596614 2.2596614 0 0 0 17.888672 14.949219 L 19.337891 13.488281 C 19.778138 14.154509 20.037109 14.953017 20.037109 15.814453 C 20.037109 18.150014 18.155873 20.03125 15.820312 20.03125 C 13.484752 20.03125 11.601563 18.150014 11.601562 15.814453 C 11.601562 14.950506 11.861743 14.149811 12.304688 13.482422 z "
+       id="path3008-7-6-9-0" />
+  </g>
+</svg>
