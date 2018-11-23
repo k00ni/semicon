@@ -1,6 +1,6 @@
 {
     "name": "semicon",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Semicon is a collection of icons (called semicons) for the Semantic Web and Linked Open Data world.",
     "repository": {
         "type": "git",
