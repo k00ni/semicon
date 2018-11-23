@@ -13,7 +13,6 @@ set +e
 
 which inkscape >> /dev/null
 if [ $? -ne 0 ]; then
-    # Neither rsvg-convert or ImageMagick convert are installed
     echo "Error - No suitable convert utility available, install inkscape"
     exit 1
 fi
