@@ -18,7 +18,7 @@ putImageToReadme() {
     # Find and link the PNGs
     for i in `find $imageFolder -depth -name '*.svg'`; do
         filename=$(basename "$i") extension="${filename##*.}" filename="${filename%.*}"
-        echo "$filePath$filename.svg) $whitespacePath " >> README.md;
+        echo "$filePath$filename.svg) $whitespacePath $whitespacePath " >> README.md;
     done
 }
 

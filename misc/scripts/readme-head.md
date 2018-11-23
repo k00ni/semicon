@@ -1,15 +1,25 @@
 # Semicon
 
-Semicon is a collection of icons (called semicons) for the [Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web) to cover a wide range of topics.
+Semicon is a collection of icons (called semicons) for the [Semantic Web](http://en.wikipedia.org/wiki/Semantic_Web) and Linked Open Data world.
 
-**Contributions welcome!**
+### Contributions are welcome
 
-## Download and Enjoy!
+If you want to contribute an icon, feel free to open a new pull request. Or send its SVG-version to me (contact details see my [profile](https://github.com/k00ni)). In doing that, you accept the icon to be published under license of this repository.
 
-You can choose between the SVG, PNG or ICO version of the semicons. Simply download the icon set [here](https://github.com/k00ni/semicon/archive/master.zip), extract it into your images folder and enjoy!
+### Download and Enjoy.
 
-## License
+You can choose between the SVG and PNG version of the icons. Simply download the icon set [here](https://github.com/k00ni/semicon/archive/master.zip), extract it into your images folder and enjoy.
 
-Semicon is licensed under the terms of [Creative Commons "CC BY-SA" 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US), which includes usage for commercial projects too.
+### Sponsor an icon
+
+You can sponsor an icon. Feel free to contact me, if you are interested (contact details [here](https://github.com/k00ni)). This would not only provide further icons for the community but also helps covering my expenses maintaining the icons.
+
+### Commercial support
+
+I provide support if you want new icons, which should not be publicly available. Contact details [here](https://github.com/k00ni).
+
+### License
+
+Semicon is licensed under the terms of [Creative Commons "CC BY"](https://creativecommons.org/licenses/by/4.0/), which includes usage for commercial projects too. Backlink appreciated, but not required. I would love to hear about your project(s) using semicon.
 
 ## Available icons
