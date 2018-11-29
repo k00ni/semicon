@@ -30,7 +30,7 @@ Related NPM-entry: https://www.npmjs.com/package/semicon
 
 You can sponsor an icon. Feel free to contact me, if you are interested (contact details [here](https://github.com/k00ni)). This would not only provide further icons for the community but also helps covering my expenses maintaining the icons.
 
-Or you can get one of my patreons:
+Or you can become one of my patreons:
 
 <a href="https://patreon.com/k00ni">
   <img width="150px" src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png"></a>
