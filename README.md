@@ -10,21 +10,9 @@ Semicon is licensed under the terms of [Creative Commons "CC BY"](https://creati
 
 If you want to contribute an icon, feel free to open a new pull request. Or send its SVG-version to me (contact details see my [profile](https://github.com/k00ni)). In doing that, you accept the icon to be published under license of this repository.
 
-## Installation
-
-#### Download and Enjoy.
+## Download and Enjoy.
 
 You can choose between the SVG and PNG version of the icons. Simply download the icon set [here](https://github.com/k00ni/semicon/archive/master.zip), extract it into your images folder and enjoy.
-
-#### NPM install
-
-You can install semicon using NPM via:
-
-```
-npm install semicon
-```
-
-Related NPM-entry: https://www.npmjs.com/package/semicon
 
 ## Sponsor an icon
 
